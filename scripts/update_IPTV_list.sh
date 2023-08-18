@@ -21,3 +21,6 @@ curl --compressed -A "Dalvik/2.1.O (Linux; U; Android 10; Device)" http://iptv.p
 # sn
 wget http://gg.gg/sn-90phut -O ./playlists/sn-90phut.m3u
 wget http://gg.gg/sn-thapcam -O ./playlists/sn-thapcam.m3u
+
+# coocaa
+wget "https://dl.dropboxusercontent.com/s/fhon6tzc3e20tis/%C3%A2%C2%AD%C3%AF%C2%BF%C2%BD%C3%83%C2%82%C3%AF%C2%BF%C2%BD%C3%83%C2%84" -O ./playlists/coocaa.m3u
