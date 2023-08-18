@@ -21,7 +21,7 @@ jobs:
 
             - name: Update time
               run: |
-                  echo "update_time=$(TZ="Asia/Bangkok" date "+%d-%m-%y %I:%M %p")" >> GITHUB_ENV
+                  echo "update_time=$(TZ="Asia/Bangkok" date "+%d-%m-%y %I:%M %p")" >> $GITHUB_ENV
 
             - name: Update playlists
               run: scripts/update_IPTV_list.sh
