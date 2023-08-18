@@ -33,7 +33,6 @@ Xin đừng chia sẻ lên cộng đồng để bảo toàn tính mạng cho cá
 -   Tổng hợp playlist IPTV của người khác, ngon ghẻ 🤨
 -   Tự động update file `.m3u` cho `vthanhtivi`, `iptvkhangg`, `phimmoi`, `PhimIPTV`, `SN-thapcam`, `SN-90phut` vào 3:00 AM mỗi ngày
 -   Các **M3U URL** có thể dùng trực tiếp với các app không thể add link gốc
--   Hiện tại chưa tìm ra cách chiến `coocaa` 🥴
 -   Một số list không chạy thì có thể chuyển đổi domain qua lại thử vì đa số dùng các shorten link đấy
     -   `http://gg.gg`
     -   `http://hqth.me`
@@ -52,7 +51,7 @@ Thích hợp dùng hằng ngày, update liên tục cũng khá lâu, được nh
 |         [vthanhtivi](http://vthanhtivi.pw/)          |        [![vthanhtivi](https://img.shields.io/badge/vthanhtivi-red?style=for-the-badge)](https://playlist.vthanhtivi.pw/)        |    [![vthanhtivi m3u](https://img.shields.io/badge/vthanhtivi-m3u-red?style=for-the-badge)](../../raw/m3u/playlists/vthanhtivi.m3u)     |
 |                      bearlivetv                      |          [![bearlivetv](https://img.shields.io/badge/bearlivetv-orange?style=for-the-badge)](http://gg.gg/bearlivetv)           |
 | [iptvkhangg](https://github.com/Khanggne/Iptvkhangg) | [![IPTV Khangg](https://img.shields.io/badge/iptv%20khangg-yellow?style=for-the-badge)](https://khanggne.github.io/Iptvkhangg/) | [![IPTV Khangg m3u](https://img.shields.io/badge/iptv%20khangg-m3u-yellow?style=for-the-badge)](../../raw/m3u/playlists/iptvkhangg.m3u) |
-|                        coocaa                        |                [![coocaa](https://img.shields.io/badge/coocaa-purple?style=for-the-badge)](http://gg.gg/coocaa/)                | [![coocaa m3u](<https://img.shields.io/badge/coocaa%20(not%20yet)-m3u-purple?style=for-the-badge>)](../../raw/m3u/playlists/coocaa.m3u) |
+|                        coocaa                        |                [![coocaa](https://img.shields.io/badge/coocaa-purple?style=for-the-badge)](http://gg.gg/coocaa/)                | [![coocaa m3u](<https://img.shields.io/badge/coocaa-m3u-purple?style=for-the-badge>)](../../raw/m3u/playlists/coocaa.m3u) |
 
 ## List khác
 
