@@ -2,7 +2,7 @@
 
 Xin đừng chia sẻ lên cộng đồng để bảo toàn tính mạng cho các list IPTV cũng như repo này 😐 Bạn tìm thấy, chỉ bạn biết
 
-# Table of contents
+# TABLE OF CONTENTS
 
 -   [ENTERTAINMENT ](#entertainment--)
 -   [Table of contents](#table-of-contents)
@@ -23,17 +23,11 @@ Xin đừng chia sẻ lên cộng đồng để bảo toàn tính mạng cho cá
 
 ---
 
-<!-- ## UPDATE TIME
-
--   **Time:** 15-08-23 07:43 AM
-
---- -->
-
 # 📺 M3U
 
 -   Tổng hợp playlist IPTV của người khác, ngon ghẻ 🤨
--   Tự động update file `.m3u` cho `vthanhtivi`, `iptvkhangg`, `phimmoi`, `PhimIPTV`, `SN-thapcam`, `SN-90phut` vào 3:00 AM + PM mỗi ngày
--   Các **M3U URL** có thể dùng trực tiếp với các app không thể add link gốc _(Ott player, VLC, ...)_
+-   Tự động update file `.m3u` cho `vthanhtivi`, `iptvkhangg`, `phimmoi`, `PhimIPTV`, `SN-thapcam`, `SN-90phut`, `coocaa` vào 3:00 AM + PM mỗi ngày
+-   Các link **M3U URL** có thể dùng trực tiếp với các app không thể add link gốc _(Ott player, VLC,...)_
 -   Một số list không chạy thì có thể chuyển đổi domain qua lại thử vì đa số dùng các shorten link đấy
     -   `http://gg.gg`
     -   `http://hqth.me`
