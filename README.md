@@ -151,6 +151,10 @@ Add vào là ngàn bộ phim luôn 😐
 
 # 📂 FILE ĐƯỢC SHARE
 
--   [Tổng hợp App cho Android TV](https://www.mediafire.com/folder/8a511ao101t8x/App+T%E1%BB%95ng+H%E1%BB%A3p+Cho+Android+TV) - [Nguyễn Thanh Tùng](https://www.facebook.com/profile.php?id=100082521464225&mibextid=ZbWKwL)
--   [Pháp APK](https://sites.google.com/view/phapapk) - [Huỳnh Phước Pháp](https://www.facebook.com/phuoc.phap?mibextid=ZbWKwL) _(Pháp Ferrari)_
--   [Lambass github apps](https://lambassvn.github.io/) - [Lâm Ngô](https://www.facebook.com/tofu.mamtom?mibextid=ZbWKwL) _(Lambass)_
+-   [Nguyễn Thanh Tùng](https://www.facebook.com/profile.php?id=100082521464225&mibextid=ZbWKwL)
+    -   [Tổng hợp App cho Android TV](https://www.mediafire.com/folder/8a511ao101t8x/App+T%E1%BB%95ng+H%E1%BB%A3p+Cho+Android+TV)
+-   [Huỳnh Phước Pháp](https://www.facebook.com/phuoc.phap?mibextid=ZbWKwL) _(Pháp Ferrari)_
+    -   [Pháp APK](https://sites.google.com/view/phapapk)
+    -   [Pháp Index](https://phuocphap.ahiep.name.vn/)
+-   [Lâm Ngô](https://www.facebook.com/tofu.mamtom?mibextid=ZbWKwL) _(Lambass)_
+    -   [Lambass github apps](https://lambassvn.github.io/)
