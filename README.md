@@ -4,21 +4,21 @@ Xin đừng chia sẻ lên cộng đồng để bảo toàn tính mạng cho cá
 
 # Table of contents
 
--   [ENTERTAINMENT ](#entertainment--)
--   [Table of contents](#table-of-contents)
--   [📺 M3U](#-m3u)
-    -   [List ngon](#list-ngon)
-    -   [List khác](#list-khác)
-    -   [Đá banh](#đá-banh)
-    -   [List gộp](#list-gộp)
-    -   [Phim](#phim)
--   [⏯️ APPS XEM M3U](#️-apps-xem-m3u)
--   [🍿 APPS](#-apps)
-    -   [Xem TV](#xem-tv)
-    -   [Xem phim](#xem-phim)
-    -   [Đọc truyện](#đọc-truyện)
--   [🌜 APPS DÙNG MULTI SOURCES](#-apps-dùng-multi-sources)
--   [📂 FILE ĐƯỢC SHARE](#-file-được-share)
+- [ENTERTAINMENT  ](#entertainment--)
+- [Table of contents](#table-of-contents)
+- [📺 M3U](#-m3u)
+  - [List ngon](#list-ngon)
+  - [List khác](#list-khác)
+  - [Đá banh](#đá-banh)
+  - [List gộp](#list-gộp)
+  - [Phim](#phim)
+- [⏯️ APPS XEM M3U](#️-apps-xem-m3u)
+- [🍿 APPS](#-apps)
+  - [Xem TV](#xem-tv)
+  - [Xem phim](#xem-phim)
+  - [Đọc truyện](#đọc-truyện)
+- [🌜 APPS DÙNG MULTI SOURCES](#-apps-dùng-multi-sources)
+- [📂 FILE ĐƯỢC SHARE](#-file-được-share)
 
 ---
 
@@ -31,7 +31,7 @@ Xin đừng chia sẻ lên cộng đồng để bảo toàn tính mạng cho cá
 # 📺 M3U
 
 -   Tổng hợp playlist IPTV của người khác, ngon ghẻ 🤨
--   Tự động update file `.m3u` cho `vthanhtivi`, `iptvkhangg`, `phimmoi`, `PhimIPTV`, `SN-thapcam`, `SN-90phut` vào 3:00 AM mỗi ngày
+-   Tự động update file `.m3u` cho `vthanhtivi`, `iptvkhangg`, `phimmoi`, `PhimIPTV`, `SN-thapcam`, `SN-90phut` vào 3:00 AM + PM mỗi ngày
 -   Các **M3U URL** có thể dùng trực tiếp với các app không thể add link gốc
 -   Hiện tại chưa tìm ra cách chiến `coocaa` 🥴
 -   Một số list không chạy thì có thể chuyển đổi domain qua lại thử vì đa số dùng các shorten link đấy

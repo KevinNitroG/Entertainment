@@ -8,7 +8,7 @@ on:
         branches: ["main"]
         paths: "scripts/update_IPTV_list.sh"
     schedule:
-        - cron: "0 20 * * *"
+        - cron: "0 8,20 * * *"
     workflow_dispatch:
     watch:
         types: [started]
@@ -29,7 +29,6 @@ jobs:
             - name: Update time in README
               run: |
                   mv -f README_m3u.md README.md
-                  rm -rf ./.github ./scripts .gitignore .README_m3u.md 
                   sed -i "s/-   \*\*Time:\*\*.*/-   \*\*Time:\*\* ${{ env.update_time }}/" ./README.md
 
             - name: Push to Github
@@ -37,6 +36,7 @@ jobs:
                   git config --global user.name ${{ secrets.MY_USERNAME }}
                   git config --global user.email ${{ secrets.MY_EMAIL }}
                   git checkout --orphan m3u_modified
+                  rm -rf ./.github ./scripts .gitignore
                   git add ./playlists/* README.md
                   git commit -m "Update ${{ env.update_time }}"
                   if git ls-remote --exit-code --heads origin m3u; then
