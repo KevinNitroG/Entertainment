@@ -38,6 +38,6 @@ jobs:
                   git checkout --orphan m3u_modified
                   git add ./playlists/* README.md
                   git commit -m "Update ${{ env.update_time }}"
-                  git branch -D m3u
+                  git push origin --delete m3u
                   git branch -m m3u
                   git push -f origin m3u
