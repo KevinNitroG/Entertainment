@@ -41,6 +41,5 @@ jobs:
                   if git ls-remote --exit-code --heads origin m3u; then
                     git push origin --delete m3u
                   fi
-                  git push origin --delete m3u
                   git branch -m m3u
                   git push -f origin m3u
