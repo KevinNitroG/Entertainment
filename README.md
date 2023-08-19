@@ -5,7 +5,7 @@ Xin đừng chia sẻ lên cộng đồng để bảo toàn tính mạng cho cá
 # TABLE OF CONTENTS
 
 -   [ENTERTAINMENT ](#entertainment--)
--   [Table of contents](#table-of-contents)
+-   [TABLE OF CONTENTS](#table-of-contents)
 -   [📺 M3U](#-m3u)
     -   [List ngon](#list-ngon)
     -   [List khác](#list-khác)
@@ -152,3 +152,4 @@ Add vào là ngàn bộ phim luôn 😐
     -   [Pháp Index](https://phuocphap.ahiep.name.vn/)
 -   [Lâm Ngô](https://www.facebook.com/tofu.mamtom?mibextid=ZbWKwL) _(Lambass)_
     -   [Lambass github apps](https://lambassvn.github.io/)
+    -   [Lambass AIO apps](https://github.com/LamBassVN/AIO-APPS)
