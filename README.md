@@ -1,6 +1,7 @@
 # ENTERTAINMENT ![GitHub repo size](https://img.shields.io/github/repo-size/KevinNitroG/Entertainment?style=for-the-badge) ![Auto Update M3U playlists](https://img.shields.io/github/actions/workflow/status/KevinNitroG/Entertainment/update_IPTV_playlists.yml?style=for-the-badge&label=Auto%20Update%20M3U%20Playlists)
 
-Xin đừng chia sẻ lên cộng đồng để bảo toàn tính mạng cho các list IPTV cũng như repo này 😐 Bạn tìm thấy, chỉ bạn biết
+-   Xin đừng chia sẻ lên cộng đồng để bảo toàn tính mạng cho các list IPTV cũng như repo này 😐 Bạn tìm thấy, chỉ bạn biết
+-   Nếu bạn là chủ của các nội dung dưới đây và có vấn đề về việc chia sẻ _(chỉnh sửa thông tin, update, yêu cầu xoá...)_ Thì hãy tạo Issue ở repo này. Xin cảm ơn vì đã chia sẻ 💖
 
 # TABLE OF CONTENTS
 
@@ -13,13 +14,21 @@ Xin đừng chia sẻ lên cộng đồng để bảo toàn tính mạng cho cá
     -   [List gộp](#list-gộp)
     -   [Phim](#phim)
     -   [Radio](#radio)
--   [⏯️ APPS XEM M3U](#️-apps-xem-m3u)
 -   [🍿 APPS](#-apps)
     -   [Xem TV](#xem-tv)
     -   [Xem phim](#xem-phim)
     -   [Đọc truyện](#đọc-truyện)
+    -   [Xem m3u](#xem-m3u)
 -   [🌜 APPS DÙNG MULTI SOURCES](#-apps-dùng-multi-sources)
 -   [📂 FILE ĐƯỢC SHARE](#-file-được-share)
+-   [😯 TORRENT](#-torrent)
+    -   [Torrent sites](#torrent-sites)
+    -   [RSS Telegram](#rss-telegram)
+-   [📖 SUBTITLE SITES](#-subtitle-sites)
+-   [🤯 KNOWLEDGE](#-knowledge)
+    -   [Đuôi file film](#đuôi-file-film)
+        -   [Chất lượng video](#chất-lượng-video)
+        -   [Chất lượng audio](#chất-lượng-audio)
 
 ---
 
@@ -91,22 +100,6 @@ Add vào là ngàn bộ phim luôn 😐
 
 ---
 
-# ⏯️ APPS XEM M3U
-
-|             **APP NAME**             |                                  **DOWNLOAD LINK**                                  | **HỆ ĐIỀU HÀNH** |
-| :----------------------------------: | :---------------------------------------------------------------------------------: | :--------------: |
-| [Ott Player](https://ottplayer.tv/)  |                                                                                     |       All        |
-| [VLC](https://www.videolan.org/vlc/) |                                                                                     |       All        |
-|               IPTV Pro               |       https://github.com/LamBassVN/AIO-APPS/raw/master/IPTV-Pro_7.0.6_Mod.apk       |     Android      |
-|            OTT Navigator             | https://github.com/LamBassVN/AIO-APPS/raw/master/OTT-Navigator-IPTV_1.6.9.4_Mod.apk |     Android      |
-|               Televizo               |         https://lambassvn.github.io/Televizo-IPTV_Premium_LamBass_2023.apk          |     Android      |
-|               TiviMate               |         https://lambassvn.github.io/TiviMate-IPTV_Premium_LamBass_2023.apk          |     Android      |
-
-> **Note**
-> Thanks to Lambass for app sources
-
----
-
 # 🍿 APPS
 
 ## Xem TV
@@ -131,25 +124,115 @@ Add vào là ngàn bộ phim luôn 😐
 | :---------------------------------------------: | :--------------------: | :--------------: |
 | [vbook app](https://www.facebook.com/vbookapp/) | http://bit.ly/vbookapp |     Android      |
 
+## Xem m3u
+
+|             **APP NAME**             |                                  **DOWNLOAD LINK**                                  | **HỆ ĐIỀU HÀNH** |
+| :----------------------------------: | :---------------------------------------------------------------------------------: | :--------------: |
+| [Ott Player](https://ottplayer.tv/)  |                                                                                     |       All        |
+| [VLC](https://www.videolan.org/vlc/) |                                                                                     |       All        |
+|               IPTV Pro               |       https://github.com/LamBassVN/AIO-APPS/raw/master/IPTV-Pro_7.0.6_Mod.apk       |     Android      |
+|            OTT Navigator             | https://github.com/LamBassVN/AIO-APPS/raw/master/OTT-Navigator-IPTV_1.6.9.4_Mod.apk |     Android      |
+|               Televizo               |         https://lambassvn.github.io/Televizo-IPTV_Premium_LamBass_2023.apk          |     Android      |
+|               TiviMate               |         https://lambassvn.github.io/TiviMate-IPTV_Premium_LamBass_2023.apk          |     Android      |
+
+> **Note**
+> Thanks to Lambass for app sources
+
 ---
 
 # 🌜 APPS DÙNG MULTI SOURCES
 
-|                        **APP NAME**                         | **THỂ LOẠI** |                          **DOWNLOAD LINK**                           | **HỆ ĐIỀU HÀNH** |
-| :---------------------------------------------------------: | :----------: | :------------------------------------------------------------------: | ---------------- |
-| [Cloudstream](https://github.com/recloudstream/cloudstream) |     Phim     |     https://github.com/recloudstream/cloudstream/releases/latest     | Android          |
-|   [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi)    |    Truyện    |      https://github.com/tachiyomiorg/tachiyomi/releases/latest       | Android          |
-|                [Aidoku](https://aidoku.app/)                |    Truyện    | https://github.com/Aidoku/Aidoku/releases/latest/download/Aidoku.ipa | IOS              |
+|                        **APP NAME**                         |       **THỂ LOẠI**        |                          **DOWNLOAD LINK**                           | **HỆ ĐIỀU HÀNH** |
+| :---------------------------------------------------------: | :-----------------------: | :------------------------------------------------------------------: | ---------------- |
+| [Cloudstream](https://github.com/recloudstream/cloudstream) |           Phim            |     https://github.com/recloudstream/cloudstream/releases/latest     | Android          |
+|   [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi)    |          Truyện           |      https://github.com/tachiyomiorg/tachiyomi/releases/latest       | Android          |
+|                [Aidoku](https://aidoku.app/)                |          Truyện           | https://github.com/Aidoku/Aidoku/releases/latest/download/Aidoku.ipa | IOS              |
+|                  [Kodi](https://kodi.tv/)                   |          Tumlum           |                      https://kodi.tv/download/                       | All              |
+|            [Streamio](https://www.stremio.com/)             | Xem phim torrent là chính |                  https://www.stremio.com/downloads/                  | All              |
 
 ---
 
 # 📂 FILE ĐƯỢC SHARE
 
--   [Nguyễn Thanh Tùng](https://www.facebook.com/profile.php?id=100082521464225&mibextid=ZbWKwL)
-    -   [Tổng hợp App cho Android TV](https://www.mediafire.com/folder/8a511ao101t8x/App+T%E1%BB%95ng+H%E1%BB%A3p+Cho+Android+TV)
--   [Huỳnh Phước Pháp](https://www.facebook.com/phuoc.phap?mibextid=ZbWKwL) _(Pháp Ferrari)_
-    -   [Pháp APK](https://sites.google.com/view/phapapk)
-    -   [Pháp Index](https://phuocphap.ahiep.name.vn/)
--   [Lâm Ngô](https://www.facebook.com/tofu.mamtom?mibextid=ZbWKwL) _(Lambass)_
-    -   [Lambass github apps](https://lambassvn.github.io/)
-    -   [Lambass AIO apps](https://github.com/LamBassVN/AIO-APPS)
+|                                          **OWNER**                                           |                                                         **SITE**                                                          | **NOTE** |
+| :------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------: | :------- |
+| [Nguyễn Thanh Tùng](https://www.facebook.com/profile.php?id=100082521464225&mibextid=ZbWKwL) | [Tổng hợp App cho Android TV](https://www.mediafire.com/folder/8a511ao101t8x/App+T%E1%BB%95ng+H%E1%BB%A3p+Cho+Android+TV) |
+| [Pháp Ferrari](https://www.facebook.com/phuoc.phap?mibextid=ZbWKwL)<br>_(Huỳnh Phước Pháp)_  |            [Pháp APK](https://sites.google.com/view/phapapk)<br>[Pháp Index](https://phuocphap.ahiep.name.vn/)            |
+|        [Lambass](https://www.facebook.com/tofu.mamtom?mibextid=ZbWKwL)<br>_(Lâm Ngô)_        |     [Lambass github apps](https://lambassvn.github.io/)<br>[Lambass AIO apps](https://github.com/LamBassVN/AIO-APPS)      |
+|                      [Bhadoo](https://web.telegram.org/k/#@HashHackers)                      |                                               https://www.hashhackers.com/                                                | Ấn Độ    |
+
+---
+
+# 😯 TORRENT
+
+## Torrent sites
+
+Public torrent thôi 🙂 Tự lên mạng search link nhé
+
+|    **SITE**    | **PROXY SITE**                                              | **NOTE**                                 |
+| :------------: | :---------------------------------------------------------- | :--------------------------------------- |
+|    Magnetdl    | https://small-smoke-7ee0-1337.calm-sunset-t15s.workers.dev/ | Search khá ok, kiểu nhiều source gộp lại |
+|   YTS / YIFY   |                                                             | Phim chất lượng tạm                      |
+| The Pirate Bay |                                                             | Hơn cả phim                              |
+|    Kickass     |
+|     Nyaasi     |                                                             | Anime                                    |
+
+Các trang khác tham khảo...
+
+|    **SITE**    | **PROXY SITE**                                                                       | **NOTE** |
+| :------------: | :----------------------------------------------------------------------------------- | :------- |
+|      EZTV      | https://small-silence-9e0e-ez-tv.calm-sunset-t15s.workers.dev/                       |
+|   RU tracker   |                                                                                      | Nga?     |
+| Torrent Galaxy | https://moon-knight-7089-tgx.calm-sunset-t15s.workers.dev/torrents.php?search=&nox=1 |
+
+> **Note**
+> Also https://www.hashhackers.com/ for more proxy sites to torrent sites
+
+## RSS Telegram
+
+-   [RSS Feed Torrent](https://web.telegram.org/k/#@rssfeedz)
+-   [Torrent Feed Update](https://web.telegram.org/k/#@torrentfeedupdate)
+-   [RSS Feeds DDL](https://web.telegram.org/k/#@ddlfeedz)
+-   [YTS.MX Movies Torrents](https://web.telegram.org/k/#@YTS_MXM)
+
+---
+
+# 📖 SUBTITLE SITES
+
+|                       **SITE**                        | **NOTE**                      |
+| :---------------------------------------------------: | :---------------------------- |
+|           [Subscene](https://subscene.com/)           | Cộng đồng sub lớn nhất        |
+| [opensubtitles.org](https://www.opensubtitles.org/vi) | Khá lớn                       |
+|           [YTS Sub](https://yts-subs.com/)            |
+|          [phudeviet](http://phudeviet.org/)           | Hình như hẹo                  |
+| [opensubtitles.com](https://www.opensubtitles.com/en) | Lú đầu thiệt, khác `.org` nhé |
+
+# 🤯 KNOWLEDGE
+
+## Đuôi file film
+
+-   Kiến thức cá nhân, có gì sai sót em xin nhận góp ý thêm ạ
+-   Sort theo thấp đến cao
+
+### Chất lượng video
+
+|                  **ĐỊNH DẠNG**                   | **NOTE**                                                                                                                  |
+| :----------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------ |
+|  Telesync _(TS / HDTS)_<br>CAM<br>HDCAM<br>HDTC  | Đại khái chúng nó cùng 1 sọt, chất lượng kém, quay bằng Camera lén trong rạp...                                           |
+|                      HDRip                       |
+|                  WEBRip _(WEB)_                  | Xem được<br>Download _(Rip)_ từ các nền tảng (HBO, Disney, FPT,...) _(mã hoá)_<br>Thường các web lậu có chất lượng cỡ WEB |
+|                  WEB-DL _(WEB)_                  | Xem ổn với mắt trâu<br>Download từ source các nền tảng chiếu<br>Một số web lậu có chất lượng này                          |
+| BDRip ≈ BRrip<br>_(Hay được dùng tắt là Bluray)_ | Rip từ đĩa Bluray<br>Nhiều người thích xem chất lượng này                                                                 |
+|                   Bluray REMUX                   | ≈ Đĩa bluray gốc, dung lượng hơn chục GB                                                                                  |
+
+> **Note**
+>
+> Thông thường cỡ **WEB-DL** là xem khá ok
+>
+> Ngoài ra còn có thêm nhiều chất lượng khác cao hơn _(Bluray-ISO = Bluray, DVD, DVDRip,...)_. Trên đây chỉ là các định dạng thường thấy để cá nhân hiểu và dùng
+>
+> Tham khảo thêm tại https://sharengay.com/chia-se-kien-thuc-nong-can-ve-cac-thong-so-tren-ten-1-bo-phim/
+
+### Chất lượng audio
+
+Thua, không biết =))
