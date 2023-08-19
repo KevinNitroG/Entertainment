@@ -1,4 +1,4 @@
-# ENTERTAINMENT ![GitHub repo size](https://img.shields.io/github/repo-size/KevinNitroG/Entertainment?style=for-the-badge) ![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/KevinNitroG/Entertainment/update_IPTV_playlists.yml?style=for-the-badge)
+# ENTERTAINMENT ![GitHub repo size](https://img.shields.io/github/repo-size/KevinNitroG/Entertainment?style=for-the-badge) ![Auto Update M3U playlists](https://img.shields.io/github/actions/workflow/status/KevinNitroG/Entertainment/update_IPTV_playlists.yml?style=for-the-badge&label=Auto%20Update%20M3U%20Playlists)
 
 Xin đừng chia sẻ lên cộng đồng để bảo toàn tính mạng cho các list IPTV cũng như repo này 😐 Bạn tìm thấy, chỉ bạn biết
 
