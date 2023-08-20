@@ -146,18 +146,18 @@ Add vào là ngàn bộ phim luôn 😐
 
 ## 1. Xem TV
 
-| **APP NAME** |                          **DOWNLOAD LINK**                           | **HỆ ĐIỀU HÀNH** |
-| :----------: | :------------------------------------------------------------------: | :--------------: |
-|  Monster TV  |                         https://xemtivi.xyz/                         |     Android      |
-|    Bee TV    | https://www.facebook.com/groups/kodiviet/permalink/1421220691735052/ |     Android      |
-|   Sport TV   |                                 chịu                                 |     Android      |
+| **APP NAME** |                          **DOWNLOAD LINK**                          | **HỆ ĐIỀU HÀNH** |
+| :----------: | :-----------------------------------------------------------------: | :--------------: |
+|  Monster TV  |                         https://xemtivi.xyz                         |     Android      |
+|    Bee TV    | https://www.facebook.com/groups/kodiviet/permalink/1421220691735052 |     Android      |
+|   Sport TV   |                                chịu                                 |     Android      |
 
 ## 2. Xem phim
 
 |                 **APP NAME**                 |                 **DOWNLOAD LINK**                  |  **HỆ ĐIỀU HÀNH**   | **NOTE**                                                                                                     |
 | :------------------------------------------: | :------------------------------------------------: | :-----------------: | :----------------------------------------------------------------------------------------------------------- |
-|                   HDO App                    |                  https://hdo.app/                  |    Android / IOS    |
-|                    Loklok                    |                https://loklok.com/                 | Web / Android / IOS | Không giòn lắm                                                                                               |
+|                   HDO App                    |                  https://hdo.app                   |    Android / IOS    |
+|                    Loklok                    |                 https://loklok.com                 | Web / Android / IOS | Không giòn lắm                                                                                               |
 |                 Bong Ngo TV                  | https://github.com/cinehubwork/abc/releases/latest |       Android       | [Telegram](https://t.me/bongngotv)<br>_Based on [Cloudstream](https://github.com/recloudstream/cloudstream)_ |
 | [Animity](https://github.com/kl3jvi/animity) | https://github.com/kl3jvi/animity/releases/latest  |       Android       | Chất lượng thấp quá                                                                                          |
 
@@ -195,9 +195,9 @@ Add vào là ngàn bộ phim luôn 😐
 |               [kotatsu](https://kotatsu.app)                |          Truyện           |       https://github.com/KotatsuApp/kotatsu-dl/releases/latest       | Android          |
 |      [LNReader](https://github.com/LNReader/lnreader)       |          Truyện           |         https://github.com/LNReader/lnreader/releases/latest         | Android          |
 |                [Aidoku](https://aidoku.app)                 |          Truyện           | https://github.com/Aidoku/Aidoku/releases/latest/download/Aidoku.ipa | IOS              |
-|             [Streamio](https://www.stremio.com)             | Xem phim torrent là chính |                  https://www.stremio.com/downloads/                  | All              |
-|                   [Kodi](https://kodi.tv)                   |          Tumlum           |                      https://kodi.tv/download/                       | All              |
-|                 [Plex](https://www.plex.tv)                 |          Tự host          |                         https://www.plex.tv/                         | All              |
+|             [Streamio](https://www.stremio.com)             | Xem phim torrent là chính |                  https://www.stremio.com/downloads                   | All              |
+|                   [Kodi](https://kodi.tv)                   |          Tumlum           |                       https://kodi.tv/download                       | All              |
+|                 [Plex](https://www.plex.tv)                 |          Tự host          |                         https://www.plex.tv                          | All              |
 |                 [Emby](https://emby.media)                  |          Tự host          |                   https://emby.media/download.html                   | All              |
 
 ---
@@ -219,25 +219,25 @@ Add vào là ngàn bộ phim luôn 😐
 
 -   Public torrent thôi 🙂 Tự lên mạng search link nhé, sợ để link bị quét bay màu
 
-|    **SITE**    | **PROXY SITE**                                              | **NOTE**                                 |
-| :------------: | :---------------------------------------------------------- | :--------------------------------------- |
-|    Magnetdl    |                                                             | Search khá ok, kiểu nhiều source gộp lại |
-|   YTS / YIFY   |                                                             | Phim chất lượng tạm                      |
-|     1337x      | https://small-smoke-7ee0-1337.calm-sunset-t15s.workers.dev/ |
-| The Pirate Bay |                                                             | Hơn cả phim                              |
+|    **SITE**    | **PROXY SITE**                                             | **NOTE**                                 |
+| :------------: | :--------------------------------------------------------- | :--------------------------------------- |
+|    Magnetdl    |                                                            | Search khá ok, kiểu nhiều source gộp lại |
+|   YTS / YIFY   |                                                            | Phim chất lượng tạm                      |
+|     1337x      | https://small-smoke-7ee0-1337.calm-sunset-t15s.workers.dev |
+| The Pirate Bay |                                                            | Hơn cả phim                              |
 |    Kickass     |
-|     Nyaasi     |                                                             | Anime                                    |
+|     Nyaasi     |                                                            | Anime                                    |
 
 -   Các trang khác tham khảo...
 
 |    **SITE**    | **PROXY SITE**                                                                       | **NOTE** |
 | :------------: | :----------------------------------------------------------------------------------- | :------- |
-|      EZTV      | https://small-silence-9e0e-ez-tv.calm-sunset-t15s.workers.dev/                       |
+|      EZTV      | https://small-silence-9e0e-ez-tv.calm-sunset-t15s.workers.dev                        |
 |   RU tracker   |                                                                                      | Nga?     |
 | Torrent Galaxy | https://moon-knight-7089-tgx.calm-sunset-t15s.workers.dev/torrents.php?search=&nox=1 |
 
 > **Note**
-> Also https://www.hashhackers.com/ for more proxy sites to torrent sites
+> Also https://www.hashhackers.com for more proxy sites to torrent sites
 
 ## 2. RSS Telegram
 
