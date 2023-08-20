@@ -39,6 +39,7 @@
 # 📺 M3U
 
 -   Tổng hợp playlist IPTV của người khác, ngon ghẻ 🤨
+-   Có những list dành cho từng nhà mạng, lên mạng search nhé
 -   Tự động update file `.m3u` cho `vthanhtivi`, `iptvkhangg`, `phimmoi`, `PhimIPTV`, `SN-thapcam`, `SN-90phut`, `coocaa` vào 3:00 AM + PM mỗi ngày
 -   Các link **M3U URL** có thể dùng trực tiếp với các app không thể add link gốc _(Ott player, VLC,...)_
 -   Một số list không chạy thì có thể chuyển đổi domain qua lại thử vì đa số dùng các shorten link đấy
@@ -100,8 +101,12 @@ Add vào là ngàn bộ phim luôn 😐
 <!-- Ex Ex Ex :v
 https://hqth.me/javhdpro - http://vniptv.online
 https://hqth.me/18t - http://vniptv.online
+
 http://hqth.me/Phu3xJav
+https://hqth.me/3xhay
+
 http://hqth.me/jav
+
 http://adultiptv.net/chs.m3u - https://adultiptv.net
 https://github.com/YanG-1989/m3u/raw/main/Adult.m3u - https://github.com/YanG-1989/m3u
 https://github.com/TCatCloud/IPTV/raw/Files/Adult.m3u - https://github.com/TCatCloud
