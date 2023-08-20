@@ -1,3 +1,5 @@
 # Table of contents
 
-* [🏠 Home](README.md)
+* [🏠 HOME](README.md)
+* [📺 M3U](m3u.md)
+* [🕸 WEBSITE](website.md)
