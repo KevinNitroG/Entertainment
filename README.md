@@ -14,12 +14,16 @@
     -   [List gộp](#list-gộp)
     -   [Phim](#phim)
     -   [Radio](#radio)
+-   [🕸️ WEBSITES](#️-websites)
+    -   [Web xem phim](#web-xem-phim)
+    -   [Fansub](#fansub)
+    -   [Index](#index)
 -   [🍿 APPS](#-apps)
     -   [Xem TV](#xem-tv)
     -   [Xem phim](#xem-phim)
-    -   [Đọc truyện](#đọc-truyện)
+    -   [Nghe nhạc](#nghe-nhạc)
     -   [Xem m3u](#xem-m3u)
--   [🌜 APPS DÙNG MULTI SOURCES](#-apps-dùng-multi-sources)
+-   [😫 ADVANCED APPS](#-advanced-apps)
 -   [📂 FILE ĐƯỢC SHARE](#-file-được-share)
 -   [😯 TORRENT](#-torrent)
     -   [Torrent sites](#torrent-sites)
@@ -50,17 +54,17 @@
 
 Thích hợp dùng hằng ngày, update liên tục cũng khá lâu, được nhiều người dùng
 
-|            **LIST NAME**            |                                                 **ORIGINAL URL**                                                  |                                                           **M3U URL**                                                            |
-| :---------------------------------: | :---------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------: |
-| [vthanhtivi](http://vthanhtivi.pw/) | [![vthanhtivi](https://img.shields.io/badge/vthanhtivi-red?style=for-the-badge)](https://playlist.vthanhtivi.pw/) | [![vthanhtivi m3u](https://img.shields.io/badge/vthanhtivi-m3u-red?style=for-the-badge)](../../raw/m3u/playlists/vthanhtivi.m3u) |
-|               coocaa                |         [![coocaa](https://img.shields.io/badge/coocaa-orange?style=for-the-badge)](http://gg.gg/coocaa/)         |     [![coocaa m3u](https://img.shields.io/badge/coocaa-m3u-orange?style=for-the-badge)](../../raw/m3u/playlists/coocaa.m3u)      |
-|             bearlivetv              |   [![bearlivetv](https://img.shields.io/badge/bearlivetv-yellow?style=for-the-badge)](http://gg.gg/bearlivetv)    |
+|           **LIST NAME**            |                                                 **ORIGINAL URL**                                                 |                                                           **M3U URL**                                                            |
+| :--------------------------------: | :--------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------: |
+| [vthanhtivi](http://vthanhtivi.pw) | [![vthanhtivi](https://img.shields.io/badge/vthanhtivi-red?style=for-the-badge)](https://playlist.vthanhtivi.pw) | [![vthanhtivi m3u](https://img.shields.io/badge/vthanhtivi-m3u-red?style=for-the-badge)](../../raw/m3u/playlists/vthanhtivi.m3u) |
+|               coocaa               |         [![coocaa](https://img.shields.io/badge/coocaa-orange?style=for-the-badge)](http://gg.gg/coocaa)         |     [![coocaa m3u](https://img.shields.io/badge/coocaa-m3u-orange?style=for-the-badge)](../../raw/m3u/playlists/coocaa.m3u)      |
+|             bearlivetv             |   [![bearlivetv](https://img.shields.io/badge/bearlivetv-yellow?style=for-the-badge)](http://gg.gg/bearlivetv)   |
 
 ## List khác
 
 |                        **LIST NAME**                         |                                                                                                                                                                                                                                                             **ORIGINAL URL**                                                                                                                                                                                                                                                              |                                                             **M3U URL**                                                              |
 | :----------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: |
-|     [iptvkhangg](https://github.com/Khanggne/Iptvkhangg)     |                                                                                                                                                                                                       [![IPTV Khangg](https://img.shields.io/badge/iptv%20khangg-red?style=for-the-badge)](https://khanggne.github.io/Iptvkhangg/)                                                                                                                                                                                                        | [![IPTV Khangg m3u](https://img.shields.io/badge/iptv%20khangg-m3u-red?style=for-the-badge)](../../raw/m3u/playlists/iptvkhangg.m3u) |
+|     [iptvkhangg](https://github.com/Khanggne/Iptvkhangg)     |                                                                                                                                                                                                        [![IPTV Khangg](https://img.shields.io/badge/iptv%20khangg-red?style=for-the-badge)](https://khanggne.github.io/Iptvkhangg)                                                                                                                                                                                                        | [![IPTV Khangg m3u](https://img.shields.io/badge/iptv%20khangg-m3u-red?style=for-the-badge)](../../raw/m3u/playlists/iptvkhangg.m3u) |
 |         [kiptv](https://github.com/ytpit20218/kiptv)         |                                                                                                                                                                                                     [![kiptv](https://img.shields.io/badge/kiptv-orange?style=for-the-badge)](https://github.com/ytpit20218/kiptv/raw/main/kiptv.m3u)                                                                                                                                                                                                     |
 |   [HaNoi IPTV](https://github.com/HaNoiIPTV/HaNoiIPTV.m3u)   | [![HaNoi IPTV](https://img.shields.io/badge/HaNoi%20IPTV-yellow?style=for-the-badge)](https://github.com/HaNoiIPTV/HaNoiIPTV.m3u/raw/master/Danh%20s%C3%A1ch%20k%C3%AAnh/G%C3%B3i%20ch%C3%ADnh%20th%E1%BB%A9c/H%C3%A0%20N%E1%BB%99i%20IPTV.m3u)<br>[![HaNoi IPTV ++](https://img.shields.io/badge/HaNoi%20IPTV%20%2B%2B-yellow?style=for-the-badge)](https://github.com/HaNoiIPTV/HaNoiIPTV.m3u/raw/master/Danh%20s%C3%A1ch%20k%C3%AAnh/G%C3%B3i%20ch%C3%ADnh%20th%E1%BB%A9c/H%C3%A0%20N%E1%BB%99i%20IPTV%20c%C3%B4ng%20c%E1%BB%99ng.m3u) |
 |    [Viet Nga IPTV](https://github.com/phuhdtv/vietngatv)     |                                                                                                                                                                                  [![Viet Nga IPTV](https://img.shields.io/badge/viet%20nga%20iptv-purple?style=for-the-badge)](https://raw.githubusercontent.com/phuhdtv/vietngatv/master/vietngatv.m3u)                                                                                                                                                                                  |
@@ -71,32 +75,70 @@ Thích hợp dùng hằng ngày, update liên tục cũng khá lâu, được nh
 |                     **LIST NAME**                      |                                                               **ORIGINAL URL**                                                                |                                                              **M3U URL**                                                              |
 | :----------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: |
 | [4K UHD](https://github.com/kgasaz/4kuhd)<br>_(Sport)_ | [![4K UHD](https://img.shields.io/badge/4K%20UHD-red?style=for-the-badge)](https://github.com/kgasaz/4kuhd/raw/master/sports-channels-4k.m3u) |
-|                       SN-thapcam                       |                [![SN-thapcam](https://img.shields.io/badge/SN%20thapcam-orange?style=for-the-badge)](http://gg.gg/SN-thapcam/)                | [![SN-thapcam m3u](https://img.shields.io/badge/SN%20thapcam-m3u-orange?style=for-the-badge)](../../raw/m3u/playlists/sn-thapcam.m3u) |
-|                       SN-90phut                        |                 [![SN-90phut](https://img.shields.io/badge/SN%2090phut-yellow?style=for-the-badge)](http://gg.gg/SN-90phut/)                  |  [![SN-90phut m3u](https://img.shields.io/badge/SN%2090phut-m3u-yellow?style=for-the-badge)](../../raw/m3u/playlists/sn-90phut.m3u)   |
-|                        aceball                         |                     [![aceball](https://img.shields.io/badge/aceball-purple?style=for-the-badge)](http://gg.gg/aceball/)                      |
+|                       SN-thapcam                       |                [![SN-thapcam](https://img.shields.io/badge/SN%20thapcam-orange?style=for-the-badge)](http://gg.gg/SN-thapcam)                 | [![SN-thapcam m3u](https://img.shields.io/badge/SN%20thapcam-m3u-orange?style=for-the-badge)](../../raw/m3u/playlists/sn-thapcam.m3u) |
+|                       SN-90phut                        |                  [![SN-90phut](https://img.shields.io/badge/SN%2090phut-yellow?style=for-the-badge)](http://gg.gg/SN-90phut)                  |  [![SN-90phut m3u](https://img.shields.io/badge/SN%2090phut-m3u-yellow?style=for-the-badge)](../../raw/m3u/playlists/sn-90phut.m3u)   |
+|                        aceball                         |                      [![aceball](https://img.shields.io/badge/aceball-purple?style=for-the-badge)](http://gg.gg/aceball)                      |
 
 ## List gộp
 
 Các list này được gộp từ 1 số list khác để tạo ra list dùng ok nhất
 
-| **LIST NAME** |                                        **ORIGINAL URL**                                        | **M3U URL** |
-| :-----------: | :--------------------------------------------------------------------------------------------: | :---------: |
-|    nhamng     | [![nhamng](https://img.shields.io/badge/nhamng-red?style=for-the-badge)](http://gg.gg/nhamng/) |
+| **LIST NAME** |                                       **ORIGINAL URL**                                        | **M3U URL** |
+| :-----------: | :-------------------------------------------------------------------------------------------: | :---------: |
+|    nhamng     | [![nhamng](https://img.shields.io/badge/nhamng-red?style=for-the-badge)](http://gg.gg/nhamng) |
 
 ## Phim
 
 Add vào là ngàn bộ phim luôn 😐
 
-|                                                                         **LIST NAME**                                                                          |                                                                                                **ORIGINAL URL**                                                                                                |                                                            **M3U URL**                                                            |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: |
-| [phimmoi](https://www.facebook.com/groups/kodiviet/permalink/1499377110586076/)<br>[EPG](https://www.facebook.com/groups/kodiviet/permalink/1501024513754669/) | [![phimmoi](https://img.shields.io/badge/phimmoi-red?style=for-the-badge)](https://hqth.me/Xjjeq)<br>[![phimmoi EPG](https://img.shields.io/badge/phimmoi%20EPG-red?style=for-the-badge)](https://hqth.me/Icy) |      [![phimmoi m3u](https://img.shields.io/badge/phimmoi-m3u-red?style=for-the-badge)](../../raw/m3u/playlists/phimmoi.m3u)      |
-|                                                  [Phim IPTV](http://iptv.pro.vn/phimiptv/)<br>_(IPTV Pro VN)_                                                  |                                                  [![Phim IPTV](https://img.shields.io/badge/Phim%20IPTV-orange?style=for-the-badge)](https://gg.gg/phimiptv)                                                   | [![Phim IPTV m3u](https://img.shields.io/badge/Phim%20IPTV-m3u-orange?style=for-the-badge)](../../raw/m3u/playlists/PhimIPTV.m3u) |
+|                                                                        **LIST NAME**                                                                         |                                                                                                **ORIGINAL URL**                                                                                                |                                                            **M3U URL**                                                            |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: |
+| [phimmoi](https://www.facebook.com/groups/kodiviet/permalink/1499377110586076)<br>[EPG](https://www.facebook.com/groups/kodiviet/permalink/1501024513754669) | [![phimmoi](https://img.shields.io/badge/phimmoi-red?style=for-the-badge)](https://hqth.me/Xjjeq)<br>[![phimmoi EPG](https://img.shields.io/badge/phimmoi%20EPG-red?style=for-the-badge)](https://hqth.me/Icy) |      [![phimmoi m3u](https://img.shields.io/badge/phimmoi-m3u-red?style=for-the-badge)](../../raw/m3u/playlists/phimmoi.m3u)      |
+|                                                 [Phim IPTV](http://iptv.pro.vn/phimiptv)<br>_(IPTV Pro VN)_                                                  |                                                  [![Phim IPTV](https://img.shields.io/badge/Phim%20IPTV-orange?style=for-the-badge)](https://gg.gg/phimiptv)                                                   | [![Phim IPTV m3u](https://img.shields.io/badge/Phim%20IPTV-m3u-orange?style=for-the-badge)](../../raw/m3u/playlists/PhimIPTV.m3u) |
 
 ## Radio
 
 |                         **LIST NAME**                         |                                                                      **ORIGINAL URL**                                                                       | **M3U URL** |
 | :-----------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------: |
 | [Dak Lak Radio](https://github.com/luongtamlong/Dak-Lak-IPTV) | [![Dak Lak Radio](https://img.shields.io/badge/Dak%20Lak%20Radio-red?style=for-the-badge)](https://github.com/luongtamlong/Dak-Lak-IPTV/raw/main/Radio.m3u) |
+
+---
+
+# 🕸️ WEBSITES
+
+## Web xem phim
+
+> **Note**
+> Các web lậu thì đầy rồi tự tìm nhé. Ở đây chỉ liệt kê các trang đíp đíp ít ai biết thôi
+
+|                          **WEBSITE**                          |               **SOURCE**                | **NOTE**                                       |
+| :-----------------------------------------------------------: | :-------------------------------------: | :--------------------------------------------- |
+| [Phim việt](https://vk.com/video/@tennaodaythatngau) - HungVu |            Nguồn từ MCUDisVN            | Hầu hết là phim việt<br>Up trên trang nước Nga |
+|            [Vietsub Cartoon](https://viettoons.tv)            |
+|        [CaptainTomy](https://captaintomy.sytes.net:6)         | https://www.facebook.com/KhoPhimBluray2 | Hàng tham khảo<br>`khachtest`:`123456789`      |
+|              [movie-web](https://movie-web.app)               | https://github.com/movie-web/movie-web  | Nhiều nguồn                                    |
+|               [MyFlixer](https://myflixerz.to)                |                                         | Nhiều nguồn                                    |
+|                [Soap2day](https://soap2day.id)                |
+
+## Fansub
+
+|                 **WEBSITE**                  |         **SOURCE**          | **NOTE**                     |
+| :------------------------------------------: | :-------------------------: | :--------------------------- |
+|    [TPN-Team](https://tpn-team.github.io)    | https://github.com/TPN-Team | Fansub?                      |
+| [Kanefusa Fansub](http://www.kanefusafs.net) |                             | Anime                        |
+|    [Koga Fansub](http://koga-fansub.net)     |                             | Anime<br>**Ngừng hoạt động** |
+
+## Index
+
+|                                      **WEBSITE**                                       | **THỂ LOẠI** |            **SOURCE**             | **NOTE**                       |
+| :------------------------------------------------------------------------------------: | :----------: | :-------------------------------: | :----------------------------- |
+|                                 https://pon.khue.site                                  |    Phim?     | https://www.facebook.com/phimbo8x | Vào facebook lấy `user`:`pass` |
+|                            https://ddl.tpnteam.workers.dev                             |    Anime     |                                   | Của TPN-Team                   |
+|                             https://anime.kioz.workers.dev                             |    Anime     |                                   | Ngưng                          |
+|                             [SeaDex](https://releases.moe)                             |    Anime     |                                   | Không biết dùng :v             |
+| [NoobFTP1](https://noobftp1.noobsubs.com)<br>[NoobFTP2](https://noobftp2.noobsubs.com) | Phim / Nhạc? |     https://www.noobsubs.com      |
+|                          [CourseDL](https://www.coursedl.org)                          |   Khoá học   |                                   | Ấn Độ?                         |
+|                           [BytesCare](https://bytescare.lol)                           |   Khoá học   |                                   | Ấn Độ?                         |
 
 ---
 
@@ -112,43 +154,51 @@ Add vào là ngàn bộ phim luôn 😐
 
 ## Xem phim
 
-|                                      **APP NAME**                                       |                 **DOWNLOAD LINK**                  |  **HỆ ĐIỀU HÀNH**   |
-| :-------------------------------------------------------------------------------------: | :------------------------------------------------: | :-----------------: |
-|                                         HDO App                                         |                  https://hdo.app/                  |    Android / IOS    |
-|                                         Loklok                                          |                https://loklok.com/                 | Web / Android / IOS |
-| Bong Ngo TV<br>_(Based on [Cloudstream](https://github.com/recloudstream/cloudstream))_ | https://github.com/cinehubwork/abc/releases/latest |       Android       |
+|                 **APP NAME**                 |                 **DOWNLOAD LINK**                  |  **HỆ ĐIỀU HÀNH**   | **NOTE**                                                                                                     |
+| :------------------------------------------: | :------------------------------------------------: | :-----------------: | :----------------------------------------------------------------------------------------------------------- |
+|                   HDO App                    |                  https://hdo.app/                  |    Android / IOS    |
+|                    Loklok                    |                https://loklok.com/                 | Web / Android / IOS | Không giòn lắm                                                                                               |
+|                 Bong Ngo TV                  | https://github.com/cinehubwork/abc/releases/latest |       Android       | [Telegram](https://t.me/bongngotv)<br>_Based on [Cloudstream](https://github.com/recloudstream/cloudstream)_ |
+| [Animity](https://github.com/kl3jvi/animity) | https://github.com/kl3jvi/animity/releases/latest  |       Android       | Chất lượng thấp quá                                                                                          |
 
-## Đọc truyện
+## Nghe nhạc
 
-|                  **APP NAME**                   |   **DOWNLOAD LINK**    | **HỆ ĐIỀU HÀNH** |
-| :---------------------------------------------: | :--------------------: | :--------------: |
-| [vbook app](https://www.facebook.com/vbookapp/) | http://bit.ly/vbookapp |     Android      |
+|                             **APP NAME**                             |                               **DOWNLOAD LINK**                                |    **HỆ ĐIỀU HÀNH**     | **NOTE**                                 |
+| :------------------------------------------------------------------: | :----------------------------------------------------------------------------: | :---------------------: | :--------------------------------------- |
+| [Youtube Music Desktop](https://github.com/DerTyp7214/youtube-music) |          https://github.com/DerTyp7214/youtube-music/releases/latest           | Windows / MacOS / Linux | Cũng kiểu app trình duyệt thêm tính năng |
+|              [SpotX](https://github.com/amd64fox/SpotX)              |                                                                                |         Windows         | Spotify mod                              |
+|               [XManager](https://www.xmanagerapp.com)                | https://github.com/xManager-App/xManager/releases/latest/download/xManager.apk |         Android         | Spotify mod                              |
 
 ## Xem m3u
 
-|             **APP NAME**             |                                  **DOWNLOAD LINK**                                  | **HỆ ĐIỀU HÀNH** |
-| :----------------------------------: | :---------------------------------------------------------------------------------: | :--------------: |
-| [Ott Player](https://ottplayer.tv/)  |                                                                                     |       All        |
-| [VLC](https://www.videolan.org/vlc/) |                                                                                     |       All        |
-|               IPTV Pro               |       https://github.com/LamBassVN/AIO-APPS/raw/master/IPTV-Pro_7.0.6_Mod.apk       |     Android      |
-|            OTT Navigator             | https://github.com/LamBassVN/AIO-APPS/raw/master/OTT-Navigator-IPTV_1.6.9.4_Mod.apk |     Android      |
-|               Televizo               |         https://lambassvn.github.io/Televizo-IPTV_Premium_LamBass_2023.apk          |     Android      |
-|               TiviMate               |         https://lambassvn.github.io/TiviMate-IPTV_Premium_LamBass_2023.apk          |     Android      |
+|            **APP NAME**             |                                  **DOWNLOAD LINK**                                  | **HỆ ĐIỀU HÀNH** | **NOTE**                  |
+| :---------------------------------: | :---------------------------------------------------------------------------------: | :--------------: | :------------------------ |
+| [Ott Player](https://ottplayer.tv)  |                                                                                     |       All        | Sync giữa các thiết bị ok |
+| [VLC](https://www.videolan.org/vlc) |                                                                                     |       All        |
+|              IPTV Pro               |       https://github.com/LamBassVN/AIO-APPS/raw/master/IPTV-Pro_7.0.6_Mod.apk       |     Android      |
+|            OTT Navigator            | https://github.com/LamBassVN/AIO-APPS/raw/master/OTT-Navigator-IPTV_1.6.9.4_Mod.apk |     Android      |
+|              Televizo               |         https://lambassvn.github.io/Televizo-IPTV_Premium_LamBass_2023.apk          |     Android      |
+|              TiviMate               |         https://lambassvn.github.io/TiviMate-IPTV_Premium_LamBass_2023.apk          |     Android      |
 
 > **Note**
 > Thanks to Lambass for app sources
 
 ---
 
-# 🌜 APPS DÙNG MULTI SOURCES
+# 😫 ADVANCED APPS
 
 |                        **APP NAME**                         |       **THỂ LOẠI**        |                          **DOWNLOAD LINK**                           | **HỆ ĐIỀU HÀNH** |
 | :---------------------------------------------------------: | :-----------------------: | :------------------------------------------------------------------: | ---------------- |
 | [Cloudstream](https://github.com/recloudstream/cloudstream) |           Phim            |     https://github.com/recloudstream/cloudstream/releases/latest     | Android          |
 |   [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi)    |          Truyện           |      https://github.com/tachiyomiorg/tachiyomi/releases/latest       | Android          |
-|                [Aidoku](https://aidoku.app/)                |          Truyện           | https://github.com/Aidoku/Aidoku/releases/latest/download/Aidoku.ipa | IOS              |
-|                  [Kodi](https://kodi.tv/)                   |          Tumlum           |                      https://kodi.tv/download/                       | All              |
-|            [Streamio](https://www.stremio.com/)             | Xem phim torrent là chính |                  https://www.stremio.com/downloads/                  | All              |
+|       [vbook app](https://www.facebook.com/vbookapp)        |          Truyện           |                        http://bit.ly/vbookapp                        | Android          |
+|               [kotatsu](https://kotatsu.app)                |          Truyện           |       https://github.com/KotatsuApp/kotatsu-dl/releases/latest       | Android          |
+|      [LNReader](https://github.com/LNReader/lnreader)       |          Truyện           |         https://github.com/LNReader/lnreader/releases/latest         | Android          |
+|                [Aidoku](https://aidoku.app)                 |          Truyện           | https://github.com/Aidoku/Aidoku/releases/latest/download/Aidoku.ipa | IOS              |
+|             [Streamio](https://www.stremio.com)             | Xem phim torrent là chính |                  https://www.stremio.com/downloads/                  | All              |
+|                   [Kodi](https://kodi.tv)                   |          Tumlum           |                      https://kodi.tv/download/                       | All              |
+|                 [Plex](https://www.plex.tv)                 |          Tự host          |                         https://www.plex.tv/                         | All              |
+|                 [Emby](https://emby.media)                  |          Tự host          |                   https://emby.media/download.html                   | All              |
 
 ---
 
@@ -157,9 +207,9 @@ Add vào là ngàn bộ phim luôn 😐
 |                                          **OWNER**                                           |                                                         **SITE**                                                          | **NOTE** |
 | :------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------: | :------- |
 | [Nguyễn Thanh Tùng](https://www.facebook.com/profile.php?id=100082521464225&mibextid=ZbWKwL) | [Tổng hợp App cho Android TV](https://www.mediafire.com/folder/8a511ao101t8x/App+T%E1%BB%95ng+H%E1%BB%A3p+Cho+Android+TV) |
-| [Pháp Ferrari](https://www.facebook.com/phuoc.phap?mibextid=ZbWKwL)<br>_(Huỳnh Phước Pháp)_  |            [Pháp APK](https://sites.google.com/view/phapapk)<br>[Pháp Index](https://phuocphap.ahiep.name.vn/)            |
-|        [Lambass](https://www.facebook.com/tofu.mamtom?mibextid=ZbWKwL)<br>_(Lâm Ngô)_        |     [Lambass github apps](https://lambassvn.github.io/)<br>[Lambass AIO apps](https://github.com/LamBassVN/AIO-APPS)      |
-|                      [Bhadoo](https://web.telegram.org/k/#@HashHackers)                      |                                               https://www.hashhackers.com/                                                | Ấn Độ    |
+| [Pháp Ferrari](https://www.facebook.com/phuoc.phap?mibextid=ZbWKwL)<br>_(Huỳnh Phước Pháp)_  |            [Pháp APK](https://sites.google.com/view/phapapk)<br>[Pháp Index](https://phuocphap.ahiep.name.vn)             |
+|        [Lambass](https://www.facebook.com/tofu.mamtom?mibextid=ZbWKwL)<br>_(Lâm Ngô)_        |      [Lambass github apps](https://lambassvn.github.io)<br>[Lambass AIO apps](https://github.com/LamBassVN/AIO-APPS)      |
+|                      [Bhadoo](https://web.telegram.org/k/#@HashHackers)                      |                                                https://www.hashhackers.com                                                | Ấn Độ    |
 
 ---
 
@@ -167,17 +217,18 @@ Add vào là ngàn bộ phim luôn 😐
 
 ## Torrent sites
 
-Public torrent thôi 🙂 Tự lên mạng search link nhé
+-   Public torrent thôi 🙂 Tự lên mạng search link nhé, sợ để link bị quét bay màu
 
 |    **SITE**    | **PROXY SITE**                                              | **NOTE**                                 |
 | :------------: | :---------------------------------------------------------- | :--------------------------------------- |
-|    Magnetdl    | https://small-smoke-7ee0-1337.calm-sunset-t15s.workers.dev/ | Search khá ok, kiểu nhiều source gộp lại |
+|    Magnetdl    |                                                             | Search khá ok, kiểu nhiều source gộp lại |
 |   YTS / YIFY   |                                                             | Phim chất lượng tạm                      |
+|     1337x      | https://small-smoke-7ee0-1337.calm-sunset-t15s.workers.dev/ |
 | The Pirate Bay |                                                             | Hơn cả phim                              |
 |    Kickass     |
 |     Nyaasi     |                                                             | Anime                                    |
 
-Các trang khác tham khảo...
+-   Các trang khác tham khảo...
 
 |    **SITE**    | **PROXY SITE**                                                                       | **NOTE** |
 | :------------: | :----------------------------------------------------------------------------------- | :------- |
@@ -201,10 +252,10 @@ Các trang khác tham khảo...
 
 |                       **SITE**                        | **NOTE**                      |
 | :---------------------------------------------------: | :---------------------------- |
-|           [Subscene](https://subscene.com/)           | Cộng đồng sub lớn nhất        |
+|           [Subscene](https://subscene.com)            | Cộng đồng sub lớn nhất        |
 | [opensubtitles.org](https://www.opensubtitles.org/vi) | Khá lớn                       |
-|           [YTS Sub](https://yts-subs.com/)            |
-|          [phudeviet](http://phudeviet.org/)           | Hình như hẹo                  |
+|            [YTS Sub](https://yts-subs.com)            |
+|           [phudeviet](http://phudeviet.org)           | Hình như hẹo                  |
 | [opensubtitles.com](https://www.opensubtitles.com/en) | Lú đầu thiệt, khác `.org` nhé |
 
 # 🤯 KNOWLEDGE
