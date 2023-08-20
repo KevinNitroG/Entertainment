@@ -8,26 +8,26 @@
 -   [ENTERTAINMENT ](#entertainment--)
 -   [TABLE OF CONTENTS](#table-of-contents)
 -   [📺 M3U](#-m3u)
-    -   [List ngon](#list-ngon)
-    -   [List khác](#list-khác)
-    -   [Đá banh](#đá-banh)
-    -   [List gộp](#list-gộp)
-    -   [Phim](#phim)
-    -   [Radio](#radio)
+    -   [1. List ngon](#1-list-ngon)
+    -   [2. List khác](#2-list-khác)
+    -   [3. Đá banh](#3-đá-banh)
+    -   [4. List gộp](#4-list-gộp)
+    -   [5. Phim](#5-phim)
+    -   [6. Radio](#6-radio)
 -   [🕸️ WEBSITES](#️-websites)
-    -   [Web xem phim](#web-xem-phim)
-    -   [Fansub](#fansub)
-    -   [Index](#index)
+    -   [1. Web xem phim](#1-web-xem-phim)
+    -   [2. Fansub](#2-fansub)
+    -   [3. Index](#3-index)
 -   [🍿 APPS](#-apps)
-    -   [Xem TV](#xem-tv)
-    -   [Xem phim](#xem-phim)
-    -   [Nghe nhạc](#nghe-nhạc)
-    -   [Xem m3u](#xem-m3u)
+    -   [1. Xem TV](#1-xem-tv)
+    -   [2. Xem phim](#2-xem-phim)
+    -   [3. Nghe nhạc](#3-nghe-nhạc)
+    -   [4. Xem m3u](#4-xem-m3u)
 -   [😫 ADVANCED APPS](#-advanced-apps)
 -   [📂 FILE ĐƯỢC SHARE](#-file-được-share)
 -   [😯 TORRENT](#-torrent)
-    -   [Torrent sites](#torrent-sites)
-    -   [RSS Telegram](#rss-telegram)
+    -   [1. Torrent sites](#1-torrent-sites)
+    -   [2. RSS Telegram](#2-rss-telegram)
 -   [📖 SUBTITLE SITES](#-subtitle-sites)
 -   [🤯 KNOWLEDGE](#-knowledge)
     -   [Đuôi file film](#đuôi-file-film)
@@ -50,7 +50,7 @@
 > **Warning**
 > Trong repo có thể sẽ chứa **token**, **api key** xin vui lòng không phá hoại, khai thác. Hãy là người có ý thức nhé 🫡
 
-## List ngon
+## 1. List ngon
 
 Thích hợp dùng hằng ngày, update liên tục cũng khá lâu, được nhiều người dùng
 
@@ -60,7 +60,7 @@ Thích hợp dùng hằng ngày, update liên tục cũng khá lâu, được nh
 |               coocaa               |         [![coocaa](https://img.shields.io/badge/coocaa-orange?style=for-the-badge)](http://gg.gg/coocaa)         |     [![coocaa m3u](https://img.shields.io/badge/coocaa-m3u-orange?style=for-the-badge)](../../raw/m3u/playlists/coocaa.m3u)      |
 |             bearlivetv             |   [![bearlivetv](https://img.shields.io/badge/bearlivetv-yellow?style=for-the-badge)](http://gg.gg/bearlivetv)   |
 
-## List khác
+## 2. List khác
 
 |                        **LIST NAME**                         |                                                                                                                                                                                                                                                             **ORIGINAL URL**                                                                                                                                                                                                                                                              |                                                             **M3U URL**                                                              |
 | :----------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: |
@@ -70,7 +70,7 @@ Thích hợp dùng hằng ngày, update liên tục cũng khá lâu, được nh
 |    [Viet Nga IPTV](https://github.com/phuhdtv/vietngatv)     |                                                                                                                                                                                  [![Viet Nga IPTV](https://img.shields.io/badge/viet%20nga%20iptv-purple?style=for-the-badge)](https://raw.githubusercontent.com/phuhdtv/vietngatv/master/vietngatv.m3u)                                                                                                                                                                                  |
 | [Dak Lak IPTV](https://github.com/luongtamlong/Dak-Lak-IPTV) |                                                                                                                                                                                    [![Dak Lak IPTV](https://img.shields.io/badge/Dak%20Lak%20IPTV-green?style=for-the-badge)](https://github.com/luongtamlong/Dak-Lak-IPTV/raw/main/Dak%20Lak%20IPTV)                                                                                                                                                                                     |
 
-## Đá banh
+## 3. Đá banh
 
 |                     **LIST NAME**                      |                                                               **ORIGINAL URL**                                                                |                                                              **M3U URL**                                                              |
 | :----------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: |
@@ -79,7 +79,7 @@ Thích hợp dùng hằng ngày, update liên tục cũng khá lâu, được nh
 |                       SN-90phut                        |                  [![SN-90phut](https://img.shields.io/badge/SN%2090phut-yellow?style=for-the-badge)](http://gg.gg/SN-90phut)                  |  [![SN-90phut m3u](https://img.shields.io/badge/SN%2090phut-m3u-yellow?style=for-the-badge)](../../raw/m3u/playlists/sn-90phut.m3u)   |
 |                        aceball                         |                      [![aceball](https://img.shields.io/badge/aceball-purple?style=for-the-badge)](http://gg.gg/aceball)                      |
 
-## List gộp
+## 4. List gộp
 
 Các list này được gộp từ 1 số list khác để tạo ra list dùng ok nhất
 
@@ -87,7 +87,7 @@ Các list này được gộp từ 1 số list khác để tạo ra list dùng o
 | :-----------: | :-------------------------------------------------------------------------------------------: | :---------: |
 |    nhamng     | [![nhamng](https://img.shields.io/badge/nhamng-red?style=for-the-badge)](http://gg.gg/nhamng) |
 
-## Phim
+## 5. Phim
 
 Add vào là ngàn bộ phim luôn 😐
 
@@ -96,7 +96,7 @@ Add vào là ngàn bộ phim luôn 😐
 | [phimmoi](https://www.facebook.com/groups/kodiviet/permalink/1499377110586076)<br>[EPG](https://www.facebook.com/groups/kodiviet/permalink/1501024513754669) | [![phimmoi](https://img.shields.io/badge/phimmoi-red?style=for-the-badge)](https://hqth.me/Xjjeq)<br>[![phimmoi EPG](https://img.shields.io/badge/phimmoi%20EPG-red?style=for-the-badge)](https://hqth.me/Icy) |      [![phimmoi m3u](https://img.shields.io/badge/phimmoi-m3u-red?style=for-the-badge)](../../raw/m3u/playlists/phimmoi.m3u)      |
 |                                                 [Phim IPTV](http://iptv.pro.vn/phimiptv)<br>_(IPTV Pro VN)_                                                  |                                                  [![Phim IPTV](https://img.shields.io/badge/Phim%20IPTV-orange?style=for-the-badge)](https://gg.gg/phimiptv)                                                   | [![Phim IPTV m3u](https://img.shields.io/badge/Phim%20IPTV-m3u-orange?style=for-the-badge)](../../raw/m3u/playlists/PhimIPTV.m3u) |
 
-## Radio
+## 6. Radio
 
 |                         **LIST NAME**                         |                                                                      **ORIGINAL URL**                                                                       | **M3U URL** |
 | :-----------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------: |
@@ -106,7 +106,7 @@ Add vào là ngàn bộ phim luôn 😐
 
 # 🕸️ WEBSITES
 
-## Web xem phim
+## 1. Web xem phim
 
 > **Note**
 > Các web lậu thì đầy rồi tự tìm nhé. Ở đây chỉ liệt kê các trang đíp đíp ít ai biết thôi
@@ -120,7 +120,7 @@ Add vào là ngàn bộ phim luôn 😐
 |               [MyFlixer](https://myflixerz.to)                |                                         | Nhiều nguồn                                    |
 |                [Soap2day](https://soap2day.id)                |
 
-## Fansub
+## 2. Fansub
 
 |                 **WEBSITE**                  |         **SOURCE**          | **NOTE**                     |
 | :------------------------------------------: | :-------------------------: | :--------------------------- |
@@ -128,7 +128,7 @@ Add vào là ngàn bộ phim luôn 😐
 | [Kanefusa Fansub](http://www.kanefusafs.net) |                             | Anime                        |
 |    [Koga Fansub](http://koga-fansub.net)     |                             | Anime<br>**Ngừng hoạt động** |
 
-## Index
+## 3. Index
 
 |                                      **WEBSITE**                                       | **THỂ LOẠI** |            **SOURCE**             | **NOTE**                       |
 | :------------------------------------------------------------------------------------: | :----------: | :-------------------------------: | :----------------------------- |
@@ -144,7 +144,7 @@ Add vào là ngàn bộ phim luôn 😐
 
 # 🍿 APPS
 
-## Xem TV
+## 1. Xem TV
 
 | **APP NAME** |                          **DOWNLOAD LINK**                           | **HỆ ĐIỀU HÀNH** |
 | :----------: | :------------------------------------------------------------------: | :--------------: |
@@ -152,7 +152,7 @@ Add vào là ngàn bộ phim luôn 😐
 |    Bee TV    | https://www.facebook.com/groups/kodiviet/permalink/1421220691735052/ |     Android      |
 |   Sport TV   |                                 chịu                                 |     Android      |
 
-## Xem phim
+## 2. Xem phim
 
 |                 **APP NAME**                 |                 **DOWNLOAD LINK**                  |  **HỆ ĐIỀU HÀNH**   | **NOTE**                                                                                                     |
 | :------------------------------------------: | :------------------------------------------------: | :-----------------: | :----------------------------------------------------------------------------------------------------------- |
@@ -161,7 +161,7 @@ Add vào là ngàn bộ phim luôn 😐
 |                 Bong Ngo TV                  | https://github.com/cinehubwork/abc/releases/latest |       Android       | [Telegram](https://t.me/bongngotv)<br>_Based on [Cloudstream](https://github.com/recloudstream/cloudstream)_ |
 | [Animity](https://github.com/kl3jvi/animity) | https://github.com/kl3jvi/animity/releases/latest  |       Android       | Chất lượng thấp quá                                                                                          |
 
-## Nghe nhạc
+## 3. Nghe nhạc
 
 |                             **APP NAME**                             |                               **DOWNLOAD LINK**                                |    **HỆ ĐIỀU HÀNH**     | **NOTE**                                 |
 | :------------------------------------------------------------------: | :----------------------------------------------------------------------------: | :---------------------: | :--------------------------------------- |
@@ -169,7 +169,7 @@ Add vào là ngàn bộ phim luôn 😐
 |              [SpotX](https://github.com/amd64fox/SpotX)              |                                                                                |         Windows         | Spotify mod                              |
 |               [XManager](https://www.xmanagerapp.com)                | https://github.com/xManager-App/xManager/releases/latest/download/xManager.apk |         Android         | Spotify mod                              |
 
-## Xem m3u
+## 4. Xem m3u
 
 |            **APP NAME**             |                                  **DOWNLOAD LINK**                                  | **HỆ ĐIỀU HÀNH** | **NOTE**                  |
 | :---------------------------------: | :---------------------------------------------------------------------------------: | :--------------: | :------------------------ |
@@ -215,7 +215,7 @@ Add vào là ngàn bộ phim luôn 😐
 
 # 😯 TORRENT
 
-## Torrent sites
+## 1. Torrent sites
 
 -   Public torrent thôi 🙂 Tự lên mạng search link nhé, sợ để link bị quét bay màu
 
@@ -239,7 +239,7 @@ Add vào là ngàn bộ phim luôn 😐
 > **Note**
 > Also https://www.hashhackers.com/ for more proxy sites to torrent sites
 
-## RSS Telegram
+## 2. RSS Telegram
 
 -   [RSS Feed Torrent](https://web.telegram.org/k/#@rssfeedz)
 -   [Torrent Feed Update](https://web.telegram.org/k/#@torrentfeedupdate)
