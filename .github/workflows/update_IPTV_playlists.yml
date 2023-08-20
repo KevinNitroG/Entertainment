@@ -21,7 +21,7 @@ jobs:
 
             - name: Update time
               run: |
-                  echo "update_time=$(TZ="Asia/Bangkok" date "on +%d-%m-%y at %I:%M %p")" >> $GITHUB_ENV
+                  echo "update_time=$(TZ="Asia/Bangkok" date "+%d-%m-%y at %I:%M %p")" >> $GITHUB_ENV
 
             - name: Update playlists
               run: scripts/update_IPTV_list.sh
@@ -38,7 +38,7 @@ jobs:
                   git config --global user.email ${{ secrets.MY_EMAIL }}
                   git checkout --orphan m3u_modified
                   git add .
-                  git commit -m "Updated ${{ env.update_time }}"
+                  git commit -m "Updated on ${{ env.update_time }}"
                   if git ls-remote --exit-code --heads origin m3u; then
                     git push origin --delete m3u
                   fi
