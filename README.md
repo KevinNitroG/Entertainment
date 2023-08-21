@@ -55,11 +55,11 @@
 
 Thích hợp dùng hằng ngày, update liên tục cũng khá lâu, được nhiều người dùng
 
-|           **LIST NAME**            |                                                 **ORIGINAL URL**                                                 |                                                           **M3U URL**                                                            |
-| :--------------------------------: | :--------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------: |
-| [vthanhtivi](http://vthanhtivi.pw) | [![vthanhtivi](https://img.shields.io/badge/vthanhtivi-red?style=for-the-badge)](https://playlist.vthanhtivi.pw) | [![vthanhtivi m3u](https://img.shields.io/badge/vthanhtivi-m3u-red?style=for-the-badge)](../../raw/m3u/playlists/vthanhtivi.m3u) |
-|               coocaa               |         [![coocaa](https://img.shields.io/badge/coocaa-orange?style=for-the-badge)](http://gg.gg/coocaa)         |     [![coocaa m3u](https://img.shields.io/badge/coocaa-m3u-orange?style=for-the-badge)](../../raw/m3u/playlists/coocaa.m3u)      |
-|             bearlivetv             |   [![bearlivetv](https://img.shields.io/badge/bearlivetv-yellow?style=for-the-badge)](http://gg.gg/bearlivetv)   |
+|           **LIST NAME**            |                                                                                                       **ORIGINAL URL**                                                                                                        |                                                           **M3U URL**                                                            |
+| :--------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------: |
+| [vthanhtivi](http://vthanhtivi.pw) |                                                       [![vthanhtivi](https://img.shields.io/badge/vthanhtivi-red?style=for-the-badge)](https://playlist.vthanhtivi.pw)                                                        | [![vthanhtivi m3u](https://img.shields.io/badge/vthanhtivi-m3u-red?style=for-the-badge)](../../raw/m3u/playlists/vthanhtivi.m3u) |
+|               coocaa               |                                                               [![coocaa](https://img.shields.io/badge/coocaa-orange?style=for-the-badge)](http://gg.gg/coocaa)                                                                |     [![coocaa m3u](https://img.shields.io/badge/coocaa-m3u-orange?style=for-the-badge)](../../raw/m3u/playlists/coocaa.m3u)      |
+|      bearlivetv / beartvplay       | [![bearlivetv](https://img.shields.io/badge/bearlivetv-yellow?style=for-the-badge)](http://gg.gg/bearlivetv)<br>[![beartvplay](https://img.shields.io/badge/beartvplay-yellow?style=for-the-badge)](http://bit.ly/beartvplay) |
 
 ## 2. List khác
 
@@ -81,6 +81,9 @@ Thích hợp dùng hằng ngày, update liên tục cũng khá lâu, được nh
 |                                SN-90phut                                 |                  [![SN-90phut](https://img.shields.io/badge/SN%2090phut-yellow?style=for-the-badge)](http://gg.gg/SN-90phut)                  |  [![SN-90phut m3u](https://img.shields.io/badge/SN%2090phut-m3u-yellow?style=for-the-badge)](../../raw/m3u/playlists/sn-90phut.m3u)   |
 |                                 aceball                                  |                      [![aceball](https://img.shields.io/badge/aceball-purple?style=for-the-badge)](http://gg.gg/aceball)                      |
 | [repository.thanh51 IPTV](https://github.com/thanh51/repository.thanh51) |   [![repository.thanh 51 IPTV Sport](https://img.shields.io/badge/repository.thanh51_IPTV-green?style=for-the-badge)](http://gg.gg/aceball)   |
+|                                vn360sport                                |                [![vn360sport](https://img.shields.io/badge/vn360_sport-blue?style=for-the-badge)](https://hqth.me/vn360sport)                 |
+|                               kiptv sport                                |                 [![kiptv sport](https://img.shields.io/badge/kiptv_sport-brown?style=for-the-badge)](https://hqth.me/kiptvs)                  |
+|            [cvmedia](https://github.com/chivy141206/cvmedia/)            |                        [![cvmedia](https://img.shields.io/badge/cvmedia-white?style=for-the-badge)](http://cvmtv.site)                        |
 
 ## 4. List gộp
 
