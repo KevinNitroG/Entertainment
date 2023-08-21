@@ -5,34 +5,34 @@
 
 # TABLE OF CONTENTS
 
--   [ENTERTAINMENT ](#entertainment--)
--   [TABLE OF CONTENTS](#table-of-contents)
--   [📺 M3U](#-m3u)
-    -   [1. List ngon](#1-list-ngon)
-    -   [2. List khác](#2-list-khác)
-    -   [3. Đá banh](#3-đá-banh)
-    -   [4. List gộp](#4-list-gộp)
-    -   [5. Phim](#5-phim)
-    -   [6. Radio](#6-radio)
--   [🕸️ WEBSITES](#️-websites)
-    -   [1. Web xem phim](#1-web-xem-phim)
-    -   [2. Fansub](#2-fansub)
-    -   [3. Index](#3-index)
--   [🍿 APPS](#-apps)
-    -   [1. Xem TV](#1-xem-tv)
-    -   [2. Xem phim](#2-xem-phim)
-    -   [3. Nghe nhạc](#3-nghe-nhạc)
-    -   [4. Xem m3u](#4-xem-m3u)
--   [😫 ADVANCED APPS](#-advanced-apps)
--   [📂 FILE SHARED](#-file-shared)
--   [😯 TORRENT](#-torrent)
-    -   [1. Torrent sites](#1-torrent-sites)
-    -   [2. RSS Telegram](#2-rss-telegram)
--   [📖 SUBTITLE SITES](#-subtitle-sites)
--   [🤯 KNOWLEDGE](#-knowledge)
-    -   [Đuôi file film](#đuôi-file-film)
-        -   [Chất lượng video](#chất-lượng-video)
-        -   [Chất lượng audio](#chất-lượng-audio)
+- [ENTERTAINMENT  ](#entertainment--)
+- [TABLE OF CONTENTS](#table-of-contents)
+- [📺 M3U](#-m3u)
+  - [1. List ngon](#1-list-ngon)
+  - [2. List khác](#2-list-khác)
+  - [3. Đá banh](#3-đá-banh)
+  - [4. List gộp](#4-list-gộp)
+  - [5. Phim](#5-phim)
+  - [6. Radio](#6-radio)
+- [🕸️ WEBSITES](#️-websites)
+  - [1. Web xem phim](#1-web-xem-phim)
+  - [2. Fansub](#2-fansub)
+  - [3. Index](#3-index)
+- [🍿 APPS](#-apps)
+  - [1. Xem TV](#1-xem-tv)
+  - [2. Xem phim](#2-xem-phim)
+  - [3. Nghe nhạc](#3-nghe-nhạc)
+  - [4. Xem m3u](#4-xem-m3u)
+- [😫 ADVANCED APPS](#-advanced-apps)
+- [📂 FILE SHARED](#-file-shared)
+- [😯 TORRENT](#-torrent)
+  - [1. Torrent sites](#1-torrent-sites)
+  - [2. RSS Telegram](#2-rss-telegram)
+- [📖 SUBTITLE SITES](#-subtitle-sites)
+- [🤯 KNOWLEDGE](#-knowledge)
+  - [Đuôi file film](#đuôi-file-film)
+    - [Chất lượng video](#chất-lượng-video)
+    - [Chất lượng audio](#chất-lượng-audio)
 
 ---
 
@@ -49,17 +49,21 @@
     -   `https://s.id`
 
 > **Warning**
+>
 > Trong repo có thể sẽ chứa **token**, **api key** xin vui lòng không phá hoại, khai thác. Hãy là người có ý thức nhé 🫡
+>
+> Xin hãy sử dụng 1 cách tôn trọng tác giả, không ảnh hưởng xấu đến ai
 
 ## 1. List ngon
 
 Thích hợp dùng hằng ngày, update liên tục cũng khá lâu, được nhiều người dùng
 
-|           **LIST NAME**            |                                                                                                       **ORIGINAL URL**                                                                                                        |                                                           **M3U URL**                                                            | **OWNER** |
-| :--------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------: | :-------: |
-| [vthanhtivi](http://vthanhtivi.pw) |                                                       [![vthanhtivi](https://img.shields.io/badge/vthanhtivi-red?style=for-the-badge)](https://playlist.vthanhtivi.pw)                                                        | [![vthanhtivi m3u](https://img.shields.io/badge/vthanhtivi-m3u-red?style=for-the-badge)](../../raw/m3u/playlists/vthanhtivi.m3u) |   Thành   |
-|               coocaa               |                                                               [![coocaa](https://img.shields.io/badge/coocaa-orange?style=for-the-badge)](http://gg.gg/coocaa)                                                                |     [![coocaa m3u](https://img.shields.io/badge/coocaa-m3u-orange?style=for-the-badge)](../../raw/m3u/playlists/coocaa.m3u)      | Henry Vo  |
-|      bearlivetv / beartvplay       | [![bearlivetv](https://img.shields.io/badge/bearlivetv-yellow?style=for-the-badge)](http://gg.gg/bearlivetv)<br>[![beartvplay](https://img.shields.io/badge/beartvplay-yellow?style=for-the-badge)](http://bit.ly/beartvplay) |                                                                                                                                  |  Linh Vũ  |
+|            **LIST NAME**            |                                                                                                       **ORIGINAL URL**                                                                                                        |                                                           **M3U URL**                                                            |  **OWNER**   |
+| :---------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------: | :----------: |
+| [vthanhtivi](http://vthanhtivi.pw)  |                                                       [![vthanhtivi](https://img.shields.io/badge/vthanhtivi-red?style=for-the-badge)](https://playlist.vthanhtivi.pw)                                                        | [![vthanhtivi m3u](https://img.shields.io/badge/vthanhtivi-m3u-red?style=for-the-badge)](../../raw/m3u/playlists/vthanhtivi.m3u) |    Thành     |
+|               coocaa                |                                                               [![coocaa](https://img.shields.io/badge/coocaa-orange?style=for-the-badge)](http://gg.gg/coocaa)                                                                |     [![coocaa m3u](https://img.shields.io/badge/coocaa-m3u-orange?style=for-the-badge)](../../raw/m3u/playlists/coocaa.m3u)      |   Henry Vo   |
+|       bearlivetv / beartvplay       | [![bearlivetv](https://img.shields.io/badge/bearlivetv-yellow?style=for-the-badge)](http://gg.gg/bearlivetv)<br>[![beartvplay](https://img.shields.io/badge/beartvplay-yellow?style=for-the-badge)](http://bit.ly/beartvplay) |                                                                                                                                  |   Linh Vũ    |
+| [PhapTX5](https://t.me/phapferrari) |                                                             [![PhapTX5](https://img.shields.io/badge/phaptx5-purple?style=for-the-badge)](https://gg.gg/phaptx5)                                                              |    [![PhapTX5 m3u](https://img.shields.io/badge/phaptx5-m3u-purple?style=for-the-badge)](../../raw/m3u/playlists/phaptx5.m3u)    | Pháp Ferrari |
 
 ## 2. List khác
 
