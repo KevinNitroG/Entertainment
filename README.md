@@ -207,14 +207,16 @@ https://github.com/TCatCloud/IPTV/raw/Files/Adult.m3u - https://github.com/TCatC
 
 ## 4. Xem m3u
 
-|            **APP NAME**             |                                  **DOWNLOAD LINK**                                  | **HỆ ĐIỀU HÀNH** | **NOTE**                  |
-| :---------------------------------: | :---------------------------------------------------------------------------------: | :--------------: | :------------------------ |
-| [Ott Player](https://ottplayer.tv)  |                                                                                     |       All        | Sync giữa các thiết bị ok |
-| [VLC](https://www.videolan.org/vlc) |                                                                                     |       All        |
-|              IPTV Pro               |       https://github.com/LamBassVN/AIO-APPS/raw/master/IPTV-Pro_7.0.6_Mod.apk       |     Android      |
-|            OTT Navigator            | https://github.com/LamBassVN/AIO-APPS/raw/master/OTT-Navigator-IPTV_1.6.9.4_Mod.apk |     Android      |
-|              Televizo               |         https://lambassvn.github.io/Televizo-IPTV_Premium_LamBass_2023.apk          |     Android      |
-|              TiviMate               |         https://lambassvn.github.io/TiviMate-IPTV_Premium_LamBass_2023.apk          |     Android      |
+|                                      **APP NAME**                                       |                              **APP MOD DOWNLOAD LINK**                              | **HỆ ĐIỀU HÀNH** | **NOTE**                  |
+| :-------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------: | :--------------: | :------------------------ |
+|                           [Ott Player](https://ottplayer.tv)                            |                                                                                     |       All        | Sync giữa các thiết bị ok |
+|                           [VLC](https://www.videolan.org/vlc)                           |                                                                                     |       All        |
+|                                        IPTV Pro                                         |       https://github.com/LamBassVN/AIO-APPS/raw/master/IPTV-Pro_7.0.6_Mod.apk       |     Android      |
+|                                      OTT Navigator                                      | https://github.com/LamBassVN/AIO-APPS/raw/master/OTT-Navigator-IPTV_1.6.9.4_Mod.apk |     Android      |
+|                                        Televizo                                         |         https://lambassvn.github.io/Televizo-IPTV_Premium_LamBass_2023.apk          |     Android      |
+|                                        TiviMate                                         |         https://lambassvn.github.io/TiviMate-IPTV_Premium_LamBass_2023.apk          |     Android      |
+|         [GoTV](https://apps.apple.com/vn/app/gotv-m3u-iptv-player/id1271283728)         |                                                                                     |       IOS        | Giao diện dễ dùng         |
+| [IPTV Player](https://apps.apple.com/vn/app/iptv-player-play-m3u-playlist/id1303327384) |                             https://t.me/LKTEAM2023/349                             |       IOS        |
 
 > **Note**
 >
