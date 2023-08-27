@@ -27,6 +27,9 @@ jobs:
             - name: Update playlists
               run: scripts/update_IPTV_list.sh
 
+            - name: Check empty files
+              run: scripts/check_empty_files.sh
+
             - name: Update time in README
               run: |
                   mv -f README_m3u.md README.md
@@ -59,6 +62,9 @@ jobs:
 
             - name: Update playlists
               run: scripts/update_IPTV_list.sh
+
+            - name: Check empty files
+              run: scripts/check_empty_files.sh
 
             - name: Update time in README
               run: |
