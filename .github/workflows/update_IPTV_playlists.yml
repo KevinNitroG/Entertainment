@@ -50,6 +50,7 @@ jobs:
                   git push -f origin m3u
 
     retry_if_fail:
+        needs: update_playlists
         if: failure()
         runs-on: ubuntu-latest
         timeout-minutes: 10
