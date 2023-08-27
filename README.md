@@ -101,8 +101,8 @@
 
 Các list này được gộp từ 1 số list khác để tạo ra list dùng ok nhất
 
-| **LIST NAME** |                                         **ORIGINAL URL**                                         | **M3U URL** |
-| :-----------: | :----------------------------------------------------------------------------------------------: | :---------: |
+| **LIST NAME** |                                         **ORIGINAL URL**                                         |
+| :-----------: | :----------------------------------------------------------------------------------------------: |
 |    nhamng     | [![nhamng](https://img.shields.io/badge/nhamng-orange?style=for-the-badge)](http://gg.gg/nhamng) |
 
 ## 5. Phim
