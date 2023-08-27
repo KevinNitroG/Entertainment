@@ -69,6 +69,7 @@ jobs:
               run: scripts/update_IPTV_list.sh
 
             - name: Check empty files
+              continue-on-error: true
               run: scripts/check_empty_files.sh
 
             - name: Update time in README

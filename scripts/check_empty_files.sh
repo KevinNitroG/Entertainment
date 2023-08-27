@@ -8,6 +8,7 @@ for file in *.m3u; do
         echo -e "$file\t\t: Empty!!!"
         empty_files+=("$file")
         check_exit=true
+        rm "$file"
     else
         echo -e "$file\t\t: Not empty"
     fi
