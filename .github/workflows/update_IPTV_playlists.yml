@@ -3,10 +3,10 @@ name: Update IPTV playlists
 on:
     push:
         branches: ["main"]
-        paths: "scripts/update_IPTV_list.sh"
+        paths: "scripts/IPTV_playlists_functions.sh"
     pull_request:
         branches: ["main"]
-        paths: "scripts/update_IPTV_list.sh"
+        paths: "scripts/IPTV_playlists_functions.sh"
     schedule:
         - cron: "0 5,11,17,23 * * *"
     workflow_dispatch:
@@ -29,7 +29,7 @@ jobs:
                   echo "update_time=$(TZ="Asia/Bangkok" date "+%d-%m-%y at %I:%M %p")" >> $GITHUB_ENV
 
             - name: Update playlists
-              run: scripts/update_IPTV_list.sh
+              run: scripts/update_IPTV_playlists.sh
 
             - name: Check empty files
               run: scripts/check_empty_files.sh
@@ -66,7 +66,7 @@ jobs:
                   echo "update_time=$(TZ="Asia/Bangkok" date "+%d-%m-%y at %I:%M %p")" >> $GITHUB_ENV
 
             - name: Update playlists
-              run: scripts/update_IPTV_list.sh
+              run: scripts/update_IPTV_playlists.sh
 
             - name: Check empty files
               continue-on-error: true
