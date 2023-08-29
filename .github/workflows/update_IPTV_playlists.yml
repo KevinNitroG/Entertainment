@@ -3,15 +3,19 @@ name: Update IPTV playlists
 on:
     push:
         branches: ["main"]
-        paths: "scripts/update_IPTV_list.sh"
+        paths: "scripts/IPTV_playlists_functions.sh"
     pull_request:
         branches: ["main"]
-        paths: "scripts/update_IPTV_list.sh"
+        paths: "scripts/IPTV_playlists_functions.sh"
     schedule:
         - cron: "0 5,11,17,23 * * *"
     workflow_dispatch:
     watch:
         types: [started]
+
+concurrency:
+    group: ${{ github.ref }}
+    cancel-in-progress: true
 
 jobs:
     update_playlists:
@@ -25,12 +29,15 @@ jobs:
                   echo "update_time=$(TZ="Asia/Bangkok" date "+%d-%m-%y at %I:%M %p")" >> $GITHUB_ENV
 
             - name: Update playlists
-              run: scripts/update_IPTV_list.sh
+              run: scripts/update_IPTV_playlists.sh
+
+            - name: Check empty files
+              run: scripts/check_empty_files.sh
 
             - name: Update time in README
               run: |
                   mv -f README_m3u.md README.md
-                  rm -rf ./.github ./scripts .gitignore .whitesource renovate.json
+                  rm -rf ./.github ./scripts .gitignore .whitesource renovate.json .deepsource.toml
                   sed -i "s/-   \*\*Time:\*\*.*/-   \*\*Time:\*\* ${{ env.update_time }}/" ./README.md
 
             - name: Push to Github
@@ -47,6 +54,7 @@ jobs:
                   git push -f origin m3u
 
     retry_if_fail:
+        needs: update_playlists
         if: failure()
         runs-on: ubuntu-latest
         timeout-minutes: 10
@@ -58,12 +66,16 @@ jobs:
                   echo "update_time=$(TZ="Asia/Bangkok" date "+%d-%m-%y at %I:%M %p")" >> $GITHUB_ENV
 
             - name: Update playlists
-              run: scripts/update_IPTV_list.sh
+              run: scripts/update_IPTV_playlists.sh
+
+            - name: Check empty files
+              continue-on-error: true
+              run: scripts/check_empty_files.sh
 
             - name: Update time in README
               run: |
                   mv -f README_m3u.md README.md
-                  rm -rf ./.github ./scripts .gitignore .whitesource renovate.json
+                  rm -rf ./.github ./scripts .gitignore .whitesource renovate.json .deepsource.toml
                   sed -i "s/-   \*\*Time:\*\*.*/-   \*\*Time:\*\* ${{ env.update_time }}/" ./README.md
 
             - name: Push to Github

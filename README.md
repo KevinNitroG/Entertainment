@@ -5,34 +5,34 @@
 
 # TABLE OF CONTENTS
 
--   [ENTERTAINMENT ](#entertainment--)
--   [TABLE OF CONTENTS](#table-of-contents)
--   [📺 M3U](#-m3u)
-    -   [1. Cơ bản đủ dùng](#1-cơ-bản-đủ-dùng)
-    -   [2. List khác](#2-list-khác)
-    -   [3. Thuần thể thao](#3-thuần-thể-thao)
-    -   [4. List gộp](#4-list-gộp)
-    -   [5. Phim](#5-phim)
-    -   [6. Radio](#6-radio)
--   [🕸️ WEBSITES](#️-websites)
-    -   [1. Web xem phim](#1-web-xem-phim)
-    -   [2. Fansub](#2-fansub)
-    -   [3. Index](#3-index)
--   [🍿 APPS](#-apps)
-    -   [1. Xem TV](#1-xem-tv)
-    -   [2. Xem phim](#2-xem-phim)
-    -   [3. Nghe nhạc](#3-nghe-nhạc)
-    -   [4. Xem m3u](#4-xem-m3u)
--   [😫 ADVANCED APPS](#-advanced-apps)
--   [📂 FILE SHARED](#-file-shared)
--   [😯 TORRENT](#-torrent)
-    -   [1. Torrent sites](#1-torrent-sites)
-    -   [2. RSS Telegram](#2-rss-telegram)
--   [📖 SUBTITLE SITES](#-subtitle-sites)
--   [🤯 KNOWLEDGE](#-knowledge)
-    -   [Đuôi file film](#đuôi-file-film)
-        -   [Chất lượng video](#chất-lượng-video)
-        -   [Chất lượng audio](#chất-lượng-audio)
+- [ENTERTAINMENT  ](#entertainment--)
+- [TABLE OF CONTENTS](#table-of-contents)
+- [📺 M3U](#-m3u)
+  - [1. Cơ bản đủ dùng](#1-cơ-bản-đủ-dùng)
+  - [2. List khác](#2-list-khác)
+  - [3. Thuần thể thao](#3-thuần-thể-thao)
+  - [4. List gộp](#4-list-gộp)
+  - [5. Phim](#5-phim)
+  - [6. Radio](#6-radio)
+- [🕸️ WEBSITES](#️-websites)
+  - [1. Web xem phim](#1-web-xem-phim)
+  - [2. Fansub](#2-fansub)
+  - [3. Index](#3-index)
+- [🍿 APPS](#-apps)
+  - [1. Xem TV](#1-xem-tv)
+  - [2. Xem phim](#2-xem-phim)
+  - [3. Nghe nhạc](#3-nghe-nhạc)
+  - [4. Xem m3u](#4-xem-m3u)
+- [😫 ADVANCED APPS](#-advanced-apps)
+- [📂 FILE SHARED](#-file-shared)
+- [😯 TORRENT](#-torrent)
+  - [1. Torrent sites](#1-torrent-sites)
+  - [2. RSS Telegram](#2-rss-telegram)
+- [📖 SUBTITLE SITES](#-subtitle-sites)
+- [🤯 KNOWLEDGE](#-knowledge)
+  - [Đuôi file film](#đuôi-file-film)
+    - [Chất lượng video](#chất-lượng-video)
+    - [Chất lượng audio](#chất-lượng-audio)
 
 ---
 
@@ -61,12 +61,12 @@
 
 ## 1. Cơ bản đủ dùng
 
-|                **LIST NAME**                 |                                                                                                       **ORIGINAL URL**                                                                                                        |                                                           **M3U URL**                                                            | **NOTE** | **OWNER** |
-| :------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------: | :------- | :-------: |
-|      [vthanhtivi](http://vthanhtivi.pw)      |                                                       [![vthanhtivi](https://img.shields.io/badge/vthanhtivi-red?style=for-the-badge)](https://playlist.vthanhtivi.pw)                                                        | [![vthanhtivi m3u](https://img.shields.io/badge/vthanhtivi-m3u-red?style=for-the-badge)](../../raw/m3u/playlists/vthanhtivi.m3u) |          |   Thành   |
-|                    coocaa                    |                                                               [![coocaa](https://img.shields.io/badge/coocaa-orange?style=for-the-badge)](http://gg.gg/coocaa)                                                                |     [![coocaa m3u](https://img.shields.io/badge/coocaa-m3u-orange?style=for-the-badge)](../../raw/m3u/playlists/coocaa.m3u)      |          | Henry Vo  |
-|           bearlivetv / beartvplay            | [![bearlivetv](https://img.shields.io/badge/bearlivetv-yellow?style=for-the-badge)](http://gg.gg/bearlivetv)<br>[![beartvplay](https://img.shields.io/badge/beartvplay-yellow?style=for-the-badge)](http://bit.ly/beartvplay) |                                                                                                                                  |          |  Linh Vũ  |
-| [kiptv](https://github.com/ytpit20218/kiptv) |                                               [![kiptv](https://img.shields.io/badge/kiptv-purple?style=for-the-badge)](https://github.com/ytpit20218/kiptv/raw/main/kiptv.m3u)                                               |                                                                                                                                  |          | Minh kiệt |
+|                **LIST NAME**                 |                                                                                                       **ORIGINAL URL**                                                                                                        |                                                           **M3U URL**                                                            | **OWNER** |
+| :------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------: | :-------: |
+|      [vthanhtivi](http://vthanhtivi.pw)      |                                                       [![vthanhtivi](https://img.shields.io/badge/vthanhtivi-red?style=for-the-badge)](https://playlist.vthanhtivi.pw)                                                        | [![vthanhtivi m3u](https://img.shields.io/badge/vthanhtivi-m3u-red?style=for-the-badge)](../../raw/m3u/playlists/vthanhtivi.m3u) |   Thành   |
+|                    coocaa                    |                                                               [![coocaa](https://img.shields.io/badge/coocaa-orange?style=for-the-badge)](http://gg.gg/coocaa)                                                                |     [![coocaa m3u](https://img.shields.io/badge/coocaa-m3u-orange?style=for-the-badge)](../../raw/m3u/playlists/coocaa.m3u)      | Henry Vo  |
+|           bearlivetv / beartvplay            | [![bearlivetv](https://img.shields.io/badge/bearlivetv-yellow?style=for-the-badge)](http://gg.gg/bearlivetv)<br>[![beartvplay](https://img.shields.io/badge/beartvplay-yellow?style=for-the-badge)](http://bit.ly/beartvplay) |                                                                                                                                  |  Linh Vũ  |
+| [kiptv](https://github.com/ytpit20218/kiptv) |                                               [![kiptv](https://img.shields.io/badge/kiptv-purple?style=for-the-badge)](https://github.com/ytpit20218/kiptv/raw/main/kiptv.m3u)                                               |                                                                                                                                  | Minh kiệt |
 
 ## 2. List khác
 
@@ -101,8 +101,8 @@
 
 Các list này được gộp từ 1 số list khác để tạo ra list dùng ok nhất
 
-| **LIST NAME** |                                         **ORIGINAL URL**                                         | **M3U URL** |
-| :-----------: | :----------------------------------------------------------------------------------------------: | :---------: |
+| **LIST NAME** |                                         **ORIGINAL URL**                                         |
+| :-----------: | :----------------------------------------------------------------------------------------------: |
 |    nhamng     | [![nhamng](https://img.shields.io/badge/nhamng-orange?style=for-the-badge)](http://gg.gg/nhamng) |
 
 ## 5. Phim
@@ -115,6 +115,12 @@ Add vào là ngàn bộ phim luôn 😐
 |                                                 [Phim IPTV](http://iptv.pro.vn/phimiptv)<br>_(IPTV Pro VN)_                                                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     [![Phim IPTV](https://img.shields.io/badge/Phim%20IPTV-orange?style=for-the-badge)](https://gg.gg/phimiptv)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | [![Phim IPTV m3u](https://img.shields.io/badge/Phim%20IPTV-m3u-orange?style=for-the-badge)](../../raw/m3u/playlists/PhimIPTV.m3u) |  Lão Nông Dân  |
 |            [VNIPTV](http://vniptv.online)<br>[Zalo](https://zalo.me/g/higkqn442)<br>[Facebook](https://www.facebook.com/groups/1587063375149946/)            | [![phimmoi - phim lẻ 1](https://img.shields.io/badge/phimmoi-phim_lẻ_1-yellow?style=for-the-badge)](https://hqth.me/phimle)<br>[![phimmoi - phim lẻ 2](https://img.shields.io/badge/phimmoi-phim_lẻ_2-yellow?style=for-the-badge)](https://hqth.me/phimle2)<br>[![phimmoi - phim lẻ epg](https://img.shields.io/badge/phimmoi-phim_lẻ_epg-yellow?style=for-the-badge)](https://hqth.me/phimleepg)<br><br>[![phimmoi - phim bộ 1](https://img.shields.io/badge/phimmoi-phim_bộ_1-purple?style=for-the-badge)](https://hqth.me/phimbo)<br>[![phimmoi - phim bộ 2](https://img.shields.io/badge/phimmoi-phim_bộ_2-purple?style=for-the-badge)](https://hqth.me/phimbo2)<br>[![phimmoi - phim bộ 1](https://img.shields.io/badge/phimmoi-phim_bộ_epg-purple?style=for-the-badge)](https://hqth.me/phimboepg)<br><br>[![tvhay - phim lẻ](https://img.shields.io/badge/tvhay-phim_lẻ-green?style=for-the-badge)](https://hqth.me/tvhayphimle)<br>[![tvhay - phim lẻ epg](https://img.shields.io/badge/tvhay-phim_lẻ_epg-green?style=for-the-badge)](https://hqth.me/tvhayphimleepg)<br><br>[![FPTPlay - phim lẻ](https://img.shields.io/badge/fptplay-phim_lẻ-blue?style=for-the-badge)](https://hqth.me/fptphimle)<br>[![FPTPlay - phim lẻ epg](https://img.shields.io/badge/fptplay-phim_lẻ_epg-blue?style=for-the-badge)](https://hqth.me/fptphimleepg) |                                                                                                                                   | Hoang Huu Diep |
 |                                                  [AllMovies](https://github.com/Televison/Films24-Premium)                                                   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                [![AllMovies](https://img.shields.io/badge/AllMovies-brown?style=for-the-badge)](https://github.com/Televison/Films24-Premium/raw/main/Allmovies.m3u)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                                                   |                |
+
+## 6. Radio
+
+|                         **LIST NAME**                         |                                                                      **ORIGINAL URL**                                                                       |
+| :-----------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| [Dak Lak Radio](https://github.com/luongtamlong/Dak-Lak-IPTV) | [![Dak Lak Radio](https://img.shields.io/badge/Dak%20Lak%20Radio-red?style=for-the-badge)](https://github.com/luongtamlong/Dak-Lak-IPTV/raw/main/Radio.m3u) |
 
 <!-- Ex Ex Ex :v
 https://hqth.me/javhdpro - http://vniptv.online
@@ -129,12 +135,6 @@ http://adultiptv.net/chs.m3u - https://adultiptv.net
 https://github.com/YanG-1989/m3u/raw/main/Adult.m3u - https://github.com/YanG-1989/m3u
 https://github.com/TCatCloud/IPTV/raw/Files/Adult.m3u - https://github.com/TCatCloud
 -->
-
-## 6. Radio
-
-|                         **LIST NAME**                         |                                                                      **ORIGINAL URL**                                                                       | **M3U URL** |
-| :-----------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------: |
-| [Dak Lak Radio](https://github.com/luongtamlong/Dak-Lak-IPTV) | [![Dak Lak Radio](https://img.shields.io/badge/Dak%20Lak%20Radio-red?style=for-the-badge)](https://github.com/luongtamlong/Dak-Lak-IPTV/raw/main/Radio.m3u) |
 
 ---
 
