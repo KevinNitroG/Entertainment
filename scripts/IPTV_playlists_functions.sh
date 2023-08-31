@@ -21,11 +21,11 @@ function phimiptv() {
 }
 
 function sn() {
-    wget http://gg.gg/sn-thapcam -O ./playlists/sn-thapcam.m3u
-    wget http://gg.gg/sn-90phut -O ./playlists/sn-90phut.m3u
-    wget http://gg.gg/sn-cakhia -O ./playlists/sn-cakhia.m3u
-    wget http://gg.gg/sn-saoke -O ./playlists/sn-saoke.m3u
-    wget http://gg.gg/sn-thethao -O ./playlists/sn-thethao.m3u
+    curl -A "Dalvik/2.1.O (Linux; U; Android 10; Device)" http://gg.gg/sn-thapcam -o ./playlists/sn-thapcam.m3u
+    curl -A "Dalvik/2.1.O (Linux; U; Android 10; Device)" http://gg.gg/sn-90phut -o ./playlists/sn-90phut.m3u
+    curl -A "Dalvik/2.1.O (Linux; U; Android 10; Device)" http://gg.gg/sn-cakhia -o ./playlists/sn-cakhia.m3u
+    curl -A "Dalvik/2.1.O (Linux; U; Android 10; Device)" http://gg.gg/sn-saoke -o ./playlists/sn-saoke.m3u
+    curl -A "Dalvik/2.1.O (Linux; U; Android 10; Device)" http://gg.gg/sn-thethao -o ./playlists/sn-thethao.m3u
 }
 
 function coocaa() {
