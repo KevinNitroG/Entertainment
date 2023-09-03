@@ -5,34 +5,34 @@
 
 # TABLE OF CONTENTS
 
-- [ENTERTAINMENT  ](#entertainment--)
-- [TABLE OF CONTENTS](#table-of-contents)
-- [📺 M3U](#-m3u)
-  - [1. Cơ bản đủ dùng](#1-cơ-bản-đủ-dùng)
-  - [2. List khác](#2-list-khác)
-  - [3. Thuần thể thao](#3-thuần-thể-thao)
-  - [4. List gộp](#4-list-gộp)
-  - [5. Phim](#5-phim)
-  - [6. Radio](#6-radio)
-- [🕸️ WEBSITES](#️-websites)
-  - [1. Web xem phim](#1-web-xem-phim)
-  - [2. Fansub](#2-fansub)
-  - [3. Index](#3-index)
-- [🍿 APPS](#-apps)
-  - [1. Xem TV](#1-xem-tv)
-  - [2. Xem phim](#2-xem-phim)
-  - [3. Nghe nhạc](#3-nghe-nhạc)
-  - [4. Xem m3u](#4-xem-m3u)
-- [😫 ADVANCED APPS](#-advanced-apps)
-- [📂 FILE SHARED](#-file-shared)
-- [😯 TORRENT](#-torrent)
-  - [1. Torrent sites](#1-torrent-sites)
-  - [2. RSS Telegram](#2-rss-telegram)
-- [📖 SUBTITLE SITES](#-subtitle-sites)
-- [🤯 KNOWLEDGE](#-knowledge)
-  - [Đuôi file film](#đuôi-file-film)
-    - [Chất lượng video](#chất-lượng-video)
-    - [Chất lượng audio](#chất-lượng-audio)
+-   [ENTERTAINMENT ](#entertainment--)
+-   [TABLE OF CONTENTS](#table-of-contents)
+-   [📺 M3U](#-m3u)
+    -   [1. Cơ bản đủ dùng](#1-cơ-bản-đủ-dùng)
+    -   [2. List khác](#2-list-khác)
+    -   [3. Thuần thể thao](#3-thuần-thể-thao)
+    -   [4. List gộp](#4-list-gộp)
+    -   [5. Phim](#5-phim)
+    -   [6. Radio](#6-radio)
+-   [🕸️ WEBSITES](#️-websites)
+    -   [1. Web xem phim](#1-web-xem-phim)
+    -   [2. Fansub](#2-fansub)
+    -   [3. Index](#3-index)
+-   [🍿 APPS](#-apps)
+    -   [1. Xem TV](#1-xem-tv)
+    -   [2. Xem phim](#2-xem-phim)
+    -   [3. Nghe nhạc](#3-nghe-nhạc)
+    -   [4. Xem m3u](#4-xem-m3u)
+-   [😫 ADVANCED APPS](#-advanced-apps)
+-   [📂 FILE SHARED](#-file-shared)
+-   [😯 TORRENT](#-torrent)
+    -   [1. Torrent sites](#1-torrent-sites)
+    -   [2. RSS Telegram](#2-rss-telegram)
+-   [📖 SUBTITLE SITES](#-subtitle-sites)
+-   [🤯 KNOWLEDGE](#-knowledge)
+    -   [Đuôi file film](#đuôi-file-film)
+        -   [Chất lượng video](#chất-lượng-video)
+        -   [Chất lượng audio](#chất-lượng-audio)
 
 ---
 
@@ -260,14 +260,14 @@ https://github.com/TCatCloud/IPTV/raw/Files/Adult.m3u - https://github.com/TCatC
 
 -   Public torrent thôi 🙂 Tự lên mạng search link nhé, sợ để link bị quét bay màu
 
-|    **SITE**    | **PROXY SITE**                                             | **NOTE**                                 |
-| :------------: | :--------------------------------------------------------- | :--------------------------------------- |
-|    Magnetdl    |                                                            | Search khá ok, kiểu nhiều source gộp lại |
-|   YTS / YIFY   |                                                            | Phim chất lượng tạm                      |
-|     1337x      | https://small-smoke-7ee0-1337.calm-sunset-t15s.workers.dev |
-| The Pirate Bay |                                                            | Hơn cả phim                              |
-|    Kickass     |
-|     Nyaasi     |                                                            | Anime                                    |
+|    **SITE**     | **PROXY SITE**                                             | **NOTE**                                 |
+| :-------------: | :--------------------------------------------------------- | :--------------------------------------- |
+|    Magnetdl     |                                                            | Search khá ok, kiểu nhiều source gộp lại |
+|   YTS / YIFY    |                                                            | Phim chất lượng tạm                      |
+|      1337x      | https://small-smoke-7ee0-1337.calm-sunset-t15s.workers.dev |
+| The Pirate Bay  |                                                            | Hơn cả phim                              |
+| Kickass / Katcr |
+|     Nyaasi      |                                                            | Anime                                    |
 
 -   Các trang khác tham khảo...
 
@@ -276,6 +276,7 @@ https://github.com/TCatCloud/IPTV/raw/Files/Adult.m3u - https://github.com/TCatC
 |      EZTV      | https://small-silence-9e0e-ez-tv.calm-sunset-t15s.workers.dev                        |
 |   RU tracker   |                                                                                      | Nga?     |
 | Torrent Galaxy | https://moon-knight-7089-tgx.calm-sunset-t15s.workers.dev/torrents.php?search=&nox=1 |
+|  Limetorrents  |
 
 > **Note**
 > Also https://www.hashhackers.com for more proxy sites to torrent sites
