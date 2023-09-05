@@ -36,9 +36,9 @@ function coocaa() {
 }
 
 function phaptx5() {
-    wget "http://phaptx5.x10.mx:80/phapferrariVIP2.php" -U "$user_agent" -O ./playlists/phaptx5.m3u
+    wget "http://phaptx5.x10.mx:80/phapferrariVIP2.php" -U "OTT Navigator/1.6.9.2 (Linux; Android 10; en; 172kbeq)" -O ./playlists/phaptx5.m3u
 }
 
 function 90p-atv() {
-    wget "http://hoaivnpt.duckdns.org/live-football/live-football.php" -O ./playlists/90p-atv.m3u
+    wget "http://hoaivnpt.duckdns.org/live-football/live-football.php" -U "$user_agent" -O ./playlists/90p-atv.m3u
 }
