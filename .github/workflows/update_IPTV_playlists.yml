@@ -37,7 +37,7 @@ jobs:
             - name: Update time in README
               run: |
                   mv -f README_m3u.md README.md
-                  rm -rf ./.github ./scripts .gitignore .whitesource renovate.json .deepsource.toml
+                  rm -rf ./.github ./scripts .gitignore .whitesource renovate.json .deepsource.toml _config.yml
                   sed -i "s/-   \*\*Time:\*\*.*/-   \*\*Time:\*\* ${{ env.update_time }}/" ./README.md
 
             - name: Push to Github
@@ -75,7 +75,7 @@ jobs:
             - name: Update time in README
               run: |
                   mv -f README_m3u.md README.md
-                  rm -rf ./.github ./scripts .gitignore .whitesource renovate.json .deepsource.toml
+                  rm -rf ./.github ./scripts .gitignore .whitesource renovate.json .deepsource.toml _config.yml
                   sed -i "s/-   \*\*Time:\*\*.*/-   \*\*Time:\*\* ${{ env.update_time }}/" ./README.md
 
             - name: Push to Github

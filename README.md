@@ -5,34 +5,34 @@
 
 # TABLE OF CONTENTS
 
--   [ENTERTAINMENT ](#entertainment--)
--   [TABLE OF CONTENTS](#table-of-contents)
--   [📺 M3U](#-m3u)
-    -   [1. Cơ bản đủ dùng](#1-cơ-bản-đủ-dùng)
-    -   [2. List khác](#2-list-khác)
-    -   [3. Thuần thể thao](#3-thuần-thể-thao)
-    -   [4. List gộp](#4-list-gộp)
-    -   [5. Phim](#5-phim)
-    -   [6. Radio](#6-radio)
--   [🕸️ WEBSITES](#️-websites)
-    -   [1. Web xem phim](#1-web-xem-phim)
-    -   [2. Fansub](#2-fansub)
-    -   [3. Index](#3-index)
--   [🍿 APPS](#-apps)
-    -   [1. Xem TV](#1-xem-tv)
-    -   [2. Xem phim](#2-xem-phim)
-    -   [3. Nghe nhạc](#3-nghe-nhạc)
-    -   [4. Xem m3u](#4-xem-m3u)
--   [😫 ADVANCED APPS](#-advanced-apps)
--   [📂 FILE SHARED](#-file-shared)
--   [😯 TORRENT](#-torrent)
-    -   [1. Torrent sites](#1-torrent-sites)
-    -   [2. RSS Telegram](#2-rss-telegram)
--   [📖 SUBTITLE SITES](#-subtitle-sites)
--   [🤯 KNOWLEDGE](#-knowledge)
-    -   [Đuôi file film](#đuôi-file-film)
-        -   [Chất lượng video](#chất-lượng-video)
-        -   [Chất lượng audio](#chất-lượng-audio)
+- [ENTERTAINMENT  ](#entertainment--)
+- [TABLE OF CONTENTS](#table-of-contents)
+- [📺 M3U](#-m3u)
+  - [1. Cơ bản đủ dùng](#1-cơ-bản-đủ-dùng)
+  - [2. List khác](#2-list-khác)
+  - [3. Thuần thể thao](#3-thuần-thể-thao)
+  - [4. List gộp](#4-list-gộp)
+  - [5. Phim](#5-phim)
+  - [6. Radio](#6-radio)
+- [🕸️ WEBSITES](#️-websites)
+  - [1. Web xem phim](#1-web-xem-phim)
+  - [2. Fansub](#2-fansub)
+  - [3. Index](#3-index)
+- [🍿 APPS](#-apps)
+  - [1. Xem TV](#1-xem-tv)
+  - [2. Xem phim](#2-xem-phim)
+  - [3. Nghe nhạc](#3-nghe-nhạc)
+  - [4. Xem m3u](#4-xem-m3u)
+- [😫 ADVANCED APPS](#-advanced-apps)
+- [📂 FILE SHARED](#-file-shared)
+- [😯 TORRENT](#-torrent)
+  - [1. Torrent sites](#1-torrent-sites)
+  - [2. RSS Telegram](#2-rss-telegram)
+- [📖 SUBTITLE SITES](#-subtitle-sites)
+- [🤯 KNOWLEDGE](#-knowledge)
+  - [Đuôi file film](#đuôi-file-film)
+    - [Chất lượng video](#chất-lượng-video)
+    - [Chất lượng audio](#chất-lượng-audio)
 
 ---
 
@@ -83,19 +83,19 @@
 
 ## 3. Thuần thể thao
 
-|                         **LIST NAME**                         |                                                                        **ORIGINAL URL**                                                                        |                                                              **M3U URL**                                                              | **OWNER** |
-| :-----------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: | :-------: |
-|    [4K UHD](https://github.com/kgasaz/4kuhd)<br>_(Sport)_     |         [![4K UHD](https://img.shields.io/badge/4K%20UHD-red?style=for-the-badge)](https://github.com/kgasaz/4kuhd/raw/master/sports-channels-4k.m3u)          |                                                                                                                                       |  kgasaz   |
-|                          SN-thapcam                           |                         [![SN-thapcam](https://img.shields.io/badge/SN%20thapcam-orange?style=for-the-badge)](http://gg.gg/SN-thapcam)                         | [![SN-thapcam m3u](https://img.shields.io/badge/SN%20thapcam-m3u-orange?style=for-the-badge)](../../raw/m3u/playlists/sn-thapcam.m3u) | Sỹ Nguyên |
-|                           SN-90phut                           |                          [![SN-90phut](https://img.shields.io/badge/SN%2090phut-yellow?style=for-the-badge)](http://gg.gg/SN-90phut)                           |  [![SN-90phut m3u](https://img.shields.io/badge/SN%2090phut-m3u-yellow?style=for-the-badge)](../../raw/m3u/playlists/sn-90phut.m3u)   | Sỹ Nguyên |
-|                           SN-cakhia                           |                          [![SN-cakhia](https://img.shields.io/badge/SN%20cakhia-purple?style=for-the-badge)](http://gg.gg/SN-cakhia)                           |  [![SN-cakhia m3u](https://img.shields.io/badge/SN%20cakhia-m3u-purple?style=for-the-badge)](../../raw/m3u/playlists/sn-cakhia.m3u)   | Sỹ Nguyên |
-|                           SN-saoke                            |                            [![SN-saoke](https://img.shields.io/badge/SN%20saoke-green?style=for-the-badge)](http://gg.gg/SN-saoke)                             |    [![SN-saoke m3u](https://img.shields.io/badge/SN%20saoke-m3u-green?style=for-the-badge)](../../raw/m3u/playlists/sn-saoke.m3u)     | Sỹ Nguyên |
-|                          SN-thethao                           |                          [![SN-thethao](https://img.shields.io/badge/SN%20thethao-blue?style=for-the-badge)](http://gg.gg/SN-thethao)                          |  [![SN-thethao m3u](https://img.shields.io/badge/SN%20thethao-m3u-blue?style=for-the-badge)](../../raw/m3u/playlists/sn-thethao.m3u)  | Sỹ Nguyên |
+|                         **LIST NAME**                         |                                                                        **ORIGINAL URL**                                                                        |                                                                 **M3U URL**                                                                  | **OWNER** |
+| :-----------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------: | :-------: |
+|    [4K UHD](https://github.com/kgasaz/4kuhd)<br>_(Sport)_     |         [![4K UHD](https://img.shields.io/badge/4K%20UHD-red?style=for-the-badge)](https://github.com/kgasaz/4kuhd/raw/master/sports-channels-4k.m3u)          |                                                                                                                                              |  kgasaz   |
+|                          SN-thapcam                           |                         [![SN-thapcam](https://img.shields.io/badge/SN%20thapcam-orange?style=for-the-badge)](http://gg.gg/SN-thapcam)                         | <!--[![SN-thapcam m3u](https://img.shields.io/badge/SN%20thapcam-m3u-orange?style=for-the-badge)](../../raw/m3u/playlists/sn-thapcam.m3u)--> | Sỹ Nguyên |
+|                           SN-90phut                           |                          [![SN-90phut](https://img.shields.io/badge/SN%2090phut-yellow?style=for-the-badge)](http://gg.gg/SN-90phut)                           |  <!--[![SN-90phut m3u](https://img.shields.io/badge/SN%2090phut-m3u-yellow?style=for-the-badge)](../../raw/m3u/playlists/sn-90phut.m3u)-->   | Sỹ Nguyên |
+|                           SN-cakhia                           |                          [![SN-cakhia](https://img.shields.io/badge/SN%20cakhia-purple?style=for-the-badge)](http://gg.gg/SN-cakhia)                           |  <!--[![SN-cakhia m3u](https://img.shields.io/badge/SN%20cakhia-m3u-purple?style=for-the-badge)](../../raw/m3u/playlists/sn-cakhia.m3u)-->   | Sỹ Nguyên |
+|                           SN-saoke                            |                            [![SN-saoke](https://img.shields.io/badge/SN%20saoke-green?style=for-the-badge)](http://gg.gg/SN-saoke)                             |    <!--[![SN-saoke m3u](https://img.shields.io/badge/SN%20saoke-m3u-green?style=for-the-badge)](../../raw/m3u/playlists/sn-saoke.m3u)-->     | Sỹ Nguyên |
+|                          SN-thethao                           |                          [![SN-thethao](https://img.shields.io/badge/SN%20thethao-blue?style=for-the-badge)](http://gg.gg/SN-thethao)                          |  <!--[![SN-thethao m3u](https://img.shields.io/badge/SN%20thethao-m3u-blue?style=for-the-badge)](../../raw/m3u/playlists/sn-thethao.m3u)-->  | Sỹ Nguyên |
 |                            aceball                            |                               [![aceball](https://img.shields.io/badge/aceball-brown?style=for-the-badge)](http://gg.gg/aceball)                               |
-|                          vn360sport                           |                        [![vn360sport](https://img.shields.io/badge/vn360_sport-white?style=for-the-badge)](https://hqth.me/vn360sport)                         |                                                                                                                                       |  Lão Hạc  |
-|                          kiptv sport                          |                          [![kiptv sport](https://img.shields.io/badge/kiptv_sport-gray?style=for-the-badge)](https://hqth.me/kiptvs)                           |                                                                                                                                       | Minh Kiệt |
-| [thanh51 IPTV](https://github.com/thanh51/repository.thanh51) | [![thanh 51 IPTV Sport](https://img.shields.io/badge/thanh51_IPTV-red?style=for-the-badge)](https://github.com/thanh51/repository.thanh51/raw/master/IPTV.m3u) |                                                                                                                                       |  Thanh51  |
-|                            90p-atv                            |                             [![90p-atv](https://img.shields.io/badge/90p_atv-orange?style=for-the-badge)](https://bit.ly/90p-atv)                              |      [![90p-atv m3u](https://img.shields.io/badge/90p_atv-m3u-orange?style=for-the-badge)](../../raw/m3u/playlists/90p-atv.m3u)       | Hoài VNPT |
+|                          vn360sport                           |                        [![vn360sport](https://img.shields.io/badge/vn360_sport-white?style=for-the-badge)](https://hqth.me/vn360sport)                         |                                                                                                                                              |  Lão Hạc  |
+|                          kiptv sport                          |                          [![kiptv sport](https://img.shields.io/badge/kiptv_sport-gray?style=for-the-badge)](https://hqth.me/kiptvs)                           |                                                                                                                                              | Minh Kiệt |
+| [thanh51 IPTV](https://github.com/thanh51/repository.thanh51) | [![thanh 51 IPTV Sport](https://img.shields.io/badge/thanh51_IPTV-red?style=for-the-badge)](https://github.com/thanh51/repository.thanh51/raw/master/IPTV.m3u) |                                                                                                                                              |  Thanh51  |
+|                            90p-atv                            |                             [![90p-atv](https://img.shields.io/badge/90p_atv-orange?style=for-the-badge)](https://bit.ly/90p-atv)                              |          [![90p-atv m3u](https://img.shields.io/badge/90p_atv-m3u-orange?style=for-the-badge)](../../raw/m3u/playlists/90p-atv.m3u)          | Hoài VNPT |
 
 ## 4. List gộp
 

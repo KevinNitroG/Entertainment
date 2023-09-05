@@ -24,11 +24,11 @@ function phimiptv() {
 }
 
 function sn() {
-    wget "http://gg.gg/sn-thapcam" -U "$user_agent" -O ./playlists/sn-thapcam.m3u -v
-    wget "http://gg.gg/sn-90phut" -U "$user_agent" -O ./playlists/sn-90phut.m3u -v
-    wget "http://gg.gg/sn-cakhia" -U "$user_agent" -O ./playlists/sn-cakhia.m3u -v
-    wget "http://gg.gg/sn-saoke" -U "$user_agent" -O ./playlists/sn-saoke.m3u -v
-    wget "http://gg.gg/sn-thethao" -U "$user_agent" -O ./playlists/sn-thethao.m3u -v
+    wget "http://gg.gg/sn-thapcam" -U "$user_agent" -O ./playlists/sn-thapcam.m3u
+    wget "http://gg.gg/sn-90phut" -U "$user_agent" -O ./playlists/sn-90phut.m3u
+    wget "http://gg.gg/sn-cakhia" -U "$user_agent" -O ./playlists/sn-cakhia.m3u
+    wget "http://gg.gg/sn-saoke" -U "$user_agent" -O ./playlists/sn-saoke.m3u
+    wget "http://gg.gg/sn-thethao" -U "$user_agent" -O ./playlists/sn-thethao.m3u
 }
 
 function coocaa() {
