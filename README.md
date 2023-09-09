@@ -5,34 +5,35 @@
 
 # TABLE OF CONTENTS
 
-- [ENTERTAINMENT  ](#entertainment--)
-- [TABLE OF CONTENTS](#table-of-contents)
-- [📺 M3U](#-m3u)
-  - [1. Cơ bản đủ dùng](#1-cơ-bản-đủ-dùng)
-  - [2. List khác](#2-list-khác)
-  - [3. Thuần thể thao](#3-thuần-thể-thao)
-  - [4. List gộp](#4-list-gộp)
-  - [5. Phim](#5-phim)
-  - [6. Radio](#6-radio)
-- [🕸️ WEBSITES](#️-websites)
-  - [1. Web xem phim](#1-web-xem-phim)
-  - [2. Fansub](#2-fansub)
-  - [3. Index](#3-index)
-- [🍿 APPS](#-apps)
-  - [1. Xem TV](#1-xem-tv)
-  - [2. Xem phim](#2-xem-phim)
-  - [3. Nghe nhạc](#3-nghe-nhạc)
-  - [4. Xem m3u](#4-xem-m3u)
-- [😫 ADVANCED APPS](#-advanced-apps)
-- [📂 FILE SHARED](#-file-shared)
-- [😯 TORRENT](#-torrent)
-  - [1. Torrent sites](#1-torrent-sites)
-  - [2. RSS Telegram](#2-rss-telegram)
-- [📖 SUBTITLE SITES](#-subtitle-sites)
-- [🤯 KNOWLEDGE](#-knowledge)
-  - [Đuôi file film](#đuôi-file-film)
-    - [Chất lượng video](#chất-lượng-video)
-    - [Chất lượng audio](#chất-lượng-audio)
+-   [ENTERTAINMENT ](#entertainment--)
+-   [TABLE OF CONTENTS](#table-of-contents)
+-   [📺 M3U](#-m3u)
+    -   [1. Cơ bản đủ dùng](#1-cơ-bản-đủ-dùng)
+    -   [2. List khác](#2-list-khác)
+    -   [3. Thuần thể thao](#3-thuần-thể-thao)
+    -   [4. List gộp](#4-list-gộp)
+    -   [5. Phim](#5-phim)
+    -   [6. Radio](#6-radio)
+-   [🕸️ WEBSITES](#️-websites)
+    -   [1. Web xem phim](#1-web-xem-phim)
+    -   [2. Fansub](#2-fansub)
+    -   [3. Index](#3-index)
+-   [🍿 APPS](#-apps)
+    -   [1. Xem TV](#1-xem-tv)
+    -   [2. Xem phim](#2-xem-phim)
+    -   [3. Đọc Truyện](#3-đọc-truyện)
+    -   [4. Nghe nhạc](#4-nghe-nhạc)
+    -   [5. Xem m3u](#5-xem-m3u)
+-   [😫 ADVANCED APPS](#-advanced-apps)
+-   [📂 FILE SHARED](#-file-shared)
+-   [😯 TORRENT](#-torrent)
+    -   [1. Torrent sites](#1-torrent-sites)
+    -   [2. RSS Telegram](#2-rss-telegram)
+-   [📖 SUBTITLE SITES](#-subtitle-sites)
+-   [🤯 KNOWLEDGE](#-knowledge)
+    -   [Đuôi file film](#đuôi-file-film)
+        -   [Chất lượng video](#chất-lượng-video)
+        -   [Chất lượng audio](#chất-lượng-audio)
 
 ---
 
@@ -74,7 +75,7 @@
 | :----------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :------------------- | :----------: |
 |     [iptvkhangg](https://github.com/Khanggne/Iptvkhangg)     |                                                                                                                                                                                                       [![IPTV Khangg](https://img.shields.io/badge/iptv%20khangg-red?style=for-the-badge)](https://khanggne.github.io/Iptvkhangg)                                                                                                                                                                                                       | [![IPTV Khangg m3u](https://img.shields.io/badge/iptv%20khangg-m3u-red?style=for-the-badge)](../../raw/m3u/playlists/iptvkhangg.m3u) |                      |    Khangg    |
 |      [cvmedia](https://github.com/chivy141206/cvmedia/)      |                                                                                                                                                                                                                    [![cvmedia](https://img.shields.io/badge/cvmedia-orange?style=for-the-badge)](http://cvmtv.site)                                                                                                                                                                                                                     |                                                                                                                                      | Chủ yếu thể thao     |    Chí Vỹ    |
-|          [TV24](https://github.com/Televison/TV24)           |                                                                                                                                                                                                           [![TV24](https://img.shields.io/badge/TV24_Premium-yellow?style=for-the-badge)](https://github.com/Televison/TV24)                                                                                                                                                                                                            |                                                                                                                                      | có khá nhiều link K+ |              |
+|          [TV24](https://github.com/Televison/TV24)           |                                                                                                                                                                                               [![TV24](https://img.shields.io/badge/TV24_Premium-yellow?style=for-the-badge)](https://github.com/Televison/TV24/raw/main/Project-v3.m3u)                                                                                                                                                                                                |                                                                                                                                      | có khá nhiều link K+ |              |
 |             [PhapTX5](https://t.me/phapferrari)              |                                                                                                                                                                                                                   [![PhapTX5](https://img.shields.io/badge/phaptx5-green?style=for-the-badge)](https://gg.gg/phaptx5)                                                                                                                                                                                                                   |      [![PhapTX5 m3u](https://img.shields.io/badge/phaptx5-m3u-green?style=for-the-badge)](../../raw/m3u/playlists/phaptx5.m3u)       | có K+                | Pháp Ferrari |
 |    [ONETV](https://github.com/thanh51/repository.thanh51)    |                                                                                                                                                                                               [![ONETV](https://img.shields.io/badge/ONETV-blue?style=for-the-badge)](https://github.com/thanh51/repository.thanh51/raw/master/ONETV.m3u)                                                                                                                                                                                               |                                                                                                                                      |                      |   Thanh51    |
 | [Dak Lak IPTV](https://github.com/luongtamlong/Dak-Lak-IPTV) |                                                                                                                                                                                   [![Dak Lak IPTV](https://img.shields.io/badge/Dak%20Lak%20IPTV-brown?style=for-the-badge)](https://github.com/luongtamlong/Dak-Lak-IPTV/raw/main/Dak%20Lak%20IPTV)                                                                                                                                                                                    |
@@ -164,15 +165,16 @@ https://github.com/TCatCloud/IPTV/raw/Files/Adult.m3u - https://github.com/TCatC
 
 ## 3. Index
 
-|                                      **WEBSITE**                                       | **THỂ LOẠI** |            **SOURCE**             | **NOTE**                       |
-| :------------------------------------------------------------------------------------: | :----------: | :-------------------------------: | :----------------------------- |
-|                                 https://pon.khue.site                                  |    Phim?     | https://www.facebook.com/phimbo8x | Vào facebook lấy `user`:`pass` |
-|                            https://ddl.tpnteam.workers.dev                             |    Anime     |                                   | Của TPN-Team                   |
-|                             https://anime.kioz.workers.dev                             |    Anime     |                                   | Ngưng                          |
-|                             [SeaDex](https://releases.moe)                             |    Anime     |                                   | Không biết dùng :v             |
-| [NoobFTP1](https://noobftp1.noobsubs.com)<br>[NoobFTP2](https://noobftp2.noobsubs.com) | Phim / Nhạc? |     https://www.noobsubs.com      |
-|                          [CourseDL](https://www.coursedl.org)                          |   Khoá học   |                                   | Ấn Độ?                         |
-|                           [BytesCare](https://bytescare.lol)                           |   Khoá học   |                                   | Ấn Độ?                         |
+|                                      **WEBSITE**                                       | **THỂ LOẠI** |                                 **SOURCE**                                 | **NOTE**                       |
+| :------------------------------------------------------------------------------------: | :----------: | :------------------------------------------------------------------------: | :----------------------------- |
+|                                 https://pon.khue.site                                  |    Phim?     |                     https://www.facebook.com/phimbo8x                      | Vào facebook lấy `user`:`pass` |
+|                     https://akirahomes:akirahomes@85.khue.link/0:/                     |     Nhạc     | https://www.facebook.com/groups/nghientrickviet/permalink/710944894205263/ | `akirahomes`:`akirahomes`      |
+|                            https://ddl.tpnteam.workers.dev                             |    Anime     |                                                                            | Của TPN-Team                   |
+|                             https://anime.kioz.workers.dev                             |    Anime     |                                                                            | Ngưng                          |
+|                             [SeaDex](https://releases.moe)                             |    Anime     |                                                                            | Không biết dùng :v             |
+| [NoobFTP1](https://noobftp1.noobsubs.com)<br>[NoobFTP2](https://noobftp2.noobsubs.com) | Phim / Nhạc? |                          https://www.noobsubs.com                          |
+|                          [CourseDL](https://www.coursedl.org)                          |   Khoá học   |                                                                            | Ấn Độ?                         |
+|                           [BytesCare](https://bytescare.lol)                           |   Khoá học   |                                                                            | Ấn Độ?                         |
 
 -   [HashHacker](https://www.hashhackers.com): Tham khảo thêm, simple program trỏng của Bahdoo
 
@@ -197,15 +199,26 @@ https://github.com/TCatCloud/IPTV/raw/Files/Adult.m3u - https://github.com/TCatC
 |                 Bong Ngo TV                  | https://github.com/cinehubwork/abc/releases/latest |       Android       | [Telegram](https://t.me/bongngotv)<br>_Based on [Cloudstream](https://github.com/recloudstream/cloudstream)_ |
 | [Animity](https://github.com/kl3jvi/animity) | https://github.com/kl3jvi/animity/releases/latest  |       Android       | Chất lượng thấp quá                                                                                          |
 
-## 3. Nghe nhạc
+## 3. Đọc Truyện
 
-|                             **APP NAME**                             |                               **DOWNLOAD LINK**                                |    **HỆ ĐIỀU HÀNH**     | **NOTE**                                 |
-| :------------------------------------------------------------------: | :----------------------------------------------------------------------------: | :---------------------: | :--------------------------------------- |
-| [Youtube Music Desktop](https://github.com/DerTyp7214/youtube-music) |          https://github.com/DerTyp7214/youtube-music/releases/latest           | Windows / MacOS / Linux | Cũng kiểu app trình duyệt thêm tính năng |
-|              [SpotX](https://github.com/amd64fox/SpotX)              |                                                                                |         Windows         | Spotify mod                              |
-|               [XManager](https://www.xmanagerapp.com)                | https://github.com/xManager-App/xManager/releases/latest/download/xManager.apk |         Android         | Spotify mod                              |
+|                    **APP NAME**                     | **THỂ LOẠI**  |                          **DOWNLOAD LINK**                          | **HỆ ĐIỀU HÀNH**    |
+| :-------------------------------------------------: | :-----------: | :-----------------------------------------------------------------: | ------------------- |
+|      [Manga Up](https://global.manga-up.com/)       |    Truyện     |                                                                     | Android / IOS / Web |
+|          [Comico](https://www.comico.jp/)           |    Truyện     |                                                                     | Android / IOS / Web |
+|       [Comics Inkr](https://comics.inkr.com/)       |    Truyện     |                                                                     | Web?                |
+|        [MangaMan](https://www.mangaman.com/)        |    Truyện     |                      https://www.mangaman.com/                      | Android             |
+| [Shosetsu](https://gitlab.com/shosetsuorg/shosetsu) | (Light) Novel | https://gitlab.com/shosetsuorg/shosetsu/-/releases/permalink/latest | Android             |
+|           [Comikey](https://comikey.com/)           |    Truyện     |                                                                     | Android / IOS / Web |
 
-## 4. Xem m3u
+## 4. Nghe nhạc
+
+|                             **APP NAME**                             |                                                 **DOWNLOAD LINK**                                                  |    **HỆ ĐIỀU HÀNH**     | **NOTE**                                 |
+| :------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: | :---------------------: | :--------------------------------------- |
+| [Youtube Music Desktop](https://github.com/DerTyp7214/youtube-music) |                            https://github.com/DerTyp7214/youtube-music/releases/latest                             | Windows / MacOS / Linux | Cũng kiểu app trình duyệt thêm tính năng |
+|              [SpotX](https://github.com/amd64fox/SpotX)              |                                                                                                                    |         Windows         | Spotify mod                              |
+|               [XManager](https://www.xmanagerapp.com)                | https://github.com/xManager-App/xManager/releases/latest/download/xManager.apk https://t.me/xManagerSupport/138498 |         Android         | Spotify mod, có cả Tidal                 |
+
+## 5. Xem m3u
 
 |                                      **APP NAME**                                       |                              **APP MOD DOWNLOAD LINK**                              | **HỆ ĐIỀU HÀNH** | **NOTE**                  |
 | :-------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------: | :--------------: | :------------------------ |
@@ -222,7 +235,9 @@ https://github.com/TCatCloud/IPTV/raw/Files/Adult.m3u - https://github.com/TCatC
 >
 > Thanks to Lambass for app sources
 >
-> Hiện tại có Tivimate, OTT Navigator hỗ trợ giải mã DRM
+> Hiện tại có Tivimate _(chính thống, nghe bảo mod không dùng được)_, OTT Navigator hỗ trợ giải mã DRM
+>
+> Ngoài lề web: [IPTVnator](https://iptvnator.vercel.app/) xem được M3U
 
 ---
 
