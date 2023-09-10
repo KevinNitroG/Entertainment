@@ -194,7 +194,8 @@ https://github.com/TCatCloud/IPTV/raw/Files/Adult.m3u - https://github.com/TCatC
 
 |                 **APP NAME**                 |                 **DOWNLOAD LINK**                  |  **HỆ ĐIỀU HÀNH**   | **NOTE**                                                                                                     |
 | :------------------------------------------: | :------------------------------------------------: | :-----------------: | :----------------------------------------------------------------------------------------------------------- |
-|                   HDO App                    |                  https://hdo.app                   |    Android / IOS    |
+|                     HDO                      |                  https://hdo.app                   |    Android / IOS    | [Telegram](https://t.me/+Ywz5HnhvFHA3Zjk1)<br>[Discord](https://discord.gg/VPRJVExUVD)                       |
+|                   HD Flix                    |                https://hdflix.app/                 |    Android / IOS    | [Telegram](https://bit.ly/3UKgGwx)<br>[Discord](https://bit.ly/3Lcn2ld)                                      |
 |                    Loklok                    |                 https://loklok.com                 | Web / Android / IOS | Không giòn lắm                                                                                               |
 |                 Bong Ngo TV                  | https://github.com/cinehubwork/abc/releases/latest |       Android       | [Telegram](https://t.me/bongngotv)<br>_Based on [Cloudstream](https://github.com/recloudstream/cloudstream)_ |
 | [Animity](https://github.com/kl3jvi/animity) | https://github.com/kl3jvi/animity/releases/latest  |       Android       | Chất lượng thấp quá                                                                                          |
