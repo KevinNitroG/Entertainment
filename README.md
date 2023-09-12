@@ -52,7 +52,7 @@
 
 > **Note**
 >
-> Có những list có kênh K+ yêu cầu app giải mã được DRM: Tivimate, OTT Navigator
+> Có những list có kênh K+ yêu cầu app giải mã được DRM: [Tivimate](https://github.com/KevinNitroG/Entertainment/releases/tag/TiviMate) _(Chính thống hoặc root patch)_, OTT Navigator
 
 > **Warning**
 >
@@ -238,7 +238,7 @@ https://github.com/TCatCloud/IPTV/raw/Files/Adult.m3u - https://github.com/TCatC
 >
 > Thanks to Lambass for app sources
 >
-> Hiện tại có Tivimate _(chính thống, nghe bảo mod không dùng được)_, OTT Navigator hỗ trợ giải mã DRM
+> Hiện tại có [TiviMate](https://github.com/KevinNitroG/Entertainment/releases/tag/TiviMate) _(chính thống, hoặc root patch)_, OTT Navigator hỗ trợ giải mã DRM
 >
 > Ngoài lề web: [IPTVnator](https://iptvnator.vercel.app/) xem được M3U
 
