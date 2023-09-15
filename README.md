@@ -17,7 +17,10 @@
 -   [🕸️ WEBSITES](#️-websites)
     -   [1. Web xem phim](#1-web-xem-phim)
     -   [2. Fansub](#2-fansub)
-    -   [3. Index](#3-index)
+    -   [3. Sách](#3-sách)
+        -   [a. Việt Nam](#a-việt-nam)
+        -   [b. Nước ngoài](#b-nước-ngoài)
+    -   [4. Index](#4-index)
 -   [🍿 APPS](#-apps)
     -   [1. Xem TV](#1-xem-tv)
     -   [2. Xem phim](#2-xem-phim)
@@ -52,7 +55,7 @@
 
 > **Note**
 >
-> Có những list có kênh K+ yêu cầu app giải mã được DRM: [Tivimate](https://github.com/KevinNitroG/Entertainment/releases/tag/TiviMate) _(Chính thống hoặc root patch)_, OTT Navigator
+> Có những list có kênh K+ yêu cầu app giải mã được DRM: Tivimate _(Chính thống hoặc [root patch](https://github.com/KevinNitroG/Entertainment/releases/tag/TiviMate))_, OTT Navigator
 
 > **Warning**
 >
@@ -163,18 +166,47 @@ https://github.com/TCatCloud/IPTV/raw/Files/Adult.m3u - https://github.com/TCatC
 | [Kanefusa Fansub](http://www.kanefusafs.net) |                             | Anime                        |
 |    [Koga Fansub](http://koga-fansub.net)     |                             | Anime<br>**Ngừng hoạt động** |
 
-## 3. Index
+## 3. Sách
+
+### a. Việt Nam
+
+|                **WEBSITE**                 | **NOTE**   |
+| :----------------------------------------: | :--------- |
+| [VietMessenger](https://vietmessenger.com) |
+|        [tve-4u](https://tve-4u.org)        |
+|      [Sách Mới](https://sachmoi.net)       |
+|   [dtv ebook](https://www.dtv-ebook.com)   |
+|       [ybook](https://www.ybook.vn)        |
+|   [SACHNOIVIET](https://sachnoiviet.net)   | Audio Book |
+
+### b. Nước ngoài
+
+|                 **WEBSITE**                  | **NOTE**                                                                                                           |
+| :------------------------------------------: | :----------------------------------------------------------------------------------------------------------------- |
+|     [Z-library](https://singlelogin.re)      | [Telegram](https://t.me/zlibrary_official)<br>[Zlib proxy](https://telegra.ph/Z-Library-Un-Official-Proxies-06-13) |
+| [Ravebooksearch](https://ravebooksearch.com) |
+|         [Libgen](https://libgen.is)          |
+|      [eBookee](https://www.ebookee.ws)       |
+|    [eBook3000](https://www.ebook3000.co)     |
+|      [ManyBooks](https://manybooks.net)      |
+|         [VDOC.PUB](https://vdoc.pub)         |
+|  [SoftArchive Book](https://sanet.st/books)  |
+|    [PDF Drive](https://www.pdfdrive.com)     |
+|    [LetMeRead](https://www.letmeread.net)    |
+
+## 4. Index
 
 |                                      **WEBSITE**                                       | **THỂ LOẠI** |                                 **SOURCE**                                 | **NOTE**                       |
 | :------------------------------------------------------------------------------------: | :----------: | :------------------------------------------------------------------------: | :----------------------------- |
 |                                 https://pon.khue.site                                  |    Phim?     |                     https://www.facebook.com/phimbo8x                      | Vào facebook lấy `user`:`pass` |
-|                     https://akirahomes:akirahomes@85.khue.link/0:/                     |     Nhạc     | https://www.facebook.com/groups/nghientrickviet/permalink/710944894205263/ | `akirahomes`:`akirahomes`      |
+|                                https://85.khue.link/0:/                                |     Nhạc     | https://www.facebook.com/groups/nghientrickviet/permalink/710944894205263/ | `akirahomes`:`akirahomes`      |
 |                            https://ddl.tpnteam.workers.dev                             |    Anime     |                                                                            | Của TPN-Team                   |
 |                             https://anime.kioz.workers.dev                             |    Anime     |                                                                            | Ngưng                          |
 |                             [SeaDex](https://releases.moe)                             |    Anime     |                                                                            | Không biết dùng :v             |
 | [NoobFTP1](https://noobftp1.noobsubs.com)<br>[NoobFTP2](https://noobftp2.noobsubs.com) | Phim / Nhạc? |                          https://www.noobsubs.com                          |
 |                          [CourseDL](https://www.coursedl.org)                          |   Khoá học   |                                                                            | Ấn Độ?                         |
 |                           [BytesCare](https://bytescare.lol)                           |   Khoá học   |                                                                            | Ấn Độ?                         |
+|                       [SimpleProgram](https://bollywood.eu.org)                        |     Phim     |                  [Telegram](https://t.me/HashHackers/319)                  | Ấn Độ _(Bhadoo)_               |
 
 -   [HashHacker](https://www.hashhackers.com): Tham khảo thêm, simple program trỏng của Bahdoo
 
@@ -238,7 +270,7 @@ https://github.com/TCatCloud/IPTV/raw/Files/Adult.m3u - https://github.com/TCatC
 >
 > Thanks to Lambass for app sources
 >
-> Hiện tại có [TiviMate](https://github.com/KevinNitroG/Entertainment/releases/tag/TiviMate) _(chính thống, hoặc root patch)_, OTT Navigator hỗ trợ giải mã DRM
+> Hiện tại có TiviMate _(chính thống, hoặc [root patch](https://github.com/KevinNitroG/Entertainment/releases/tag/TiviMate))_, OTT Navigator hỗ trợ giải mã DRM
 >
 > Ngoài lề web: [IPTVnator](https://iptvnator.vercel.app/) xem được M3U
 
