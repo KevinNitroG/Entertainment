@@ -1,6 +1,6 @@
 # IPTV_playlists_functions.sh
 
-user_agent="Dalvik/2.1.0 (Linux; U; Android 10; KevinNitroG/Entertainment-GithubAction)"
+user_agent="Dalvik/2.1.0 (Linux; U; Android 10; KevinNitroG/Entertainment-Github_Action)"
 
 function vthanhtivi() {
     wget "http://playlist.vthanhtivi.pw/" -U "$user_agent" -O ./playlists/vthanhtivi.m3u
