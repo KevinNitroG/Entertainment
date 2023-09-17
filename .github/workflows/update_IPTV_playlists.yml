@@ -14,7 +14,7 @@ on:
     types: [started]
 
 concurrency:
-  group: ${{ github.ref }}
+  group: ${{ github.workflow }}
   cancel-in-progress: true
 
 jobs:
