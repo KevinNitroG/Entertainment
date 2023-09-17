@@ -44,7 +44,7 @@
 
 -   Tổng hợp playlist IPTV của người khác, ngon ghẻ 🤨
 -   Có những list dành cho từng nhà mạng, lên mạng search nhé
--   Tự động update file `.m3u` cho 1 số list cột **M3U URL** vào `00:00`, `6:00`, `12:00`. `18:00` mỗi ngày hoặc sẽ chạy khi có ai đó star repo
+-   Tự động update file `.m3u` cho 1 số list cột **M3U URL** vào `03:00 AM / PM` mỗi ngày hoặc sẽ chạy khi có ai đó star repo
     > Các link **M3U URL** có thể dùng trực tiếp với các app không thể add link gốc _(Ott player, VLC,...)_
 -   Một số list không chạy thì có thể chuyển đổi domain qua lại thử vì đa số dùng các shorten link đấy
     -   `http://gg.gg`
