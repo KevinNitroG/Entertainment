@@ -19,7 +19,7 @@ concurrency:
 
 jobs:
   update_playlists:
-    runs-on: ubuntu-latest
+    runs-on: Kevacle
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
@@ -54,10 +54,10 @@ jobs:
           git push -f origin m3u
 
   retry_if_fail:
+    runs-on: Kevacle
+    timeout-minutes: 10
     needs: update_playlists
     if: failure()
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
 
