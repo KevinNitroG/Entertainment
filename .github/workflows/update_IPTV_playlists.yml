@@ -8,7 +8,7 @@ on:
     branches: ["main", "dev"]
     paths: "scripts/IPTV_playlists_functions.sh"
   schedule:
-    - cron: "0 20 * * *"
+    - cron: "0 20/6 * * *"
   workflow_dispatch:
   watch:
     types: [started]
@@ -19,7 +19,7 @@ concurrency:
 
 jobs:
   update_playlists:
-    runs-on: Kevacle
+    runs-on: self-hosted
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
@@ -54,7 +54,7 @@ jobs:
           git push -f origin m3u
 
   retry_if_fail:
-    runs-on: Kevacle
+    runs-on: self-hosted
     timeout-minutes: 10
     needs: update_playlists
     if: failure()
