@@ -8,7 +8,7 @@ on:
     branches: ["main", "dev"]
     paths: "scripts/IPTV_playlists_functions.sh"
   schedule:
-    - cron: "0 20/6 * * *"
+    - cron: "0 2/6 * * *"
   workflow_dispatch:
   watch:
     types: [started]
