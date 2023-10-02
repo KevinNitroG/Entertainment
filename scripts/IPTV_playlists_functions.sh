@@ -1,15 +1,15 @@
 # IPTV_playlists_functions.sh
 
 user_agent="Dalvik/2.1.0 (Linux; U; Android 10; KevinNitroG/Entertainment-Github_Action)"
-
+real_user_agent="Dalvik/2.1.0 (Linux; U; Android 10; Redmi K20 Build/SKQ1.211001.060)"
 function vthanhtivi() {
     wget "http://playlist.vthanhtivi.pw/" -U "$user_agent" -O ./playlists/vthanhtivi.m3u
 }
 
 function iptv_khangg() {
-    wget "https://github.com/Khanggne/Iptvkhangg/raw/Khanggtivi/index.html" -U "$user_agent" -O ./playlists/iptvkhangg.m3u
-    sed -i '1d' ./playlists/iptvkhangg.m3u
-    sed -i '$d' ./playlists/iptvkhangg.m3u
+    wget "https://tivi.khanggtivi.xyz/" -U "$user_agent" -O ./playlists/iptvkhangg.m3u
+    # sed -i '1d' ./playlists/iptvkhangg.m3u
+    # sed -i '$d' ./playlists/iptvkhangg.m3u
 }
 
 function phimmoi() {
@@ -20,7 +20,7 @@ function phimmoi() {
 }
 
 function phimiptv() {
-    curl --compressed -A "$user_agent" "http://iptv.pro.vn/phimiptv/" -o ./playlists/PhimIPTV.m3u
+    curl --compressed -A "$real_user_agent" "http://iptv.pro.vn/phimiptv/" -o ./playlists/PhimIPTV.m3u
 }
 
 function sn() {
