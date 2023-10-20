@@ -236,6 +236,7 @@ https://github.com/TCatCloud/IPTV/raw/Files/Adult.m3u - https://github.com/TCatC
 |              [Boba TV](https://bobatv.net)              | [Android Phone](https://bobatv.net/bobaphone)<br>[Android TV](https://bobatv.net/bobatv) |       Android       |
 |      [Animity](https://github.com/kl3jvi/animity)       |                    https://github.com/kl3jvi/animity/releases/latest                     |       Android       | Chất lượng thấp quá                                                                                          |
 | [AnimeScrap](https://github.com/fakeyatogod/AnimeScrap) |                https://github.com/fakeyatogod/AnimeScrap/releases/latest/                |       Android       | Lấy từ nhiều source nước ngoài                                                                               |
+|  [Cinemax](https://github.com/BeamlakAschalew/cinemax)  |                https://github.com/BeamlakAschalew/cinemax/releases/latest                |       Android       | Có vẻ VN xem không ổn                                                                                        |
 
 ## 3. Đọc Truyện
 
@@ -253,7 +254,10 @@ https://github.com/TCatCloud/IPTV/raw/Files/Adult.m3u - https://github.com/TCatC
 |                             **APP NAME**                             |                                                 **DOWNLOAD LINK**                                                  |    **HỆ ĐIỀU HÀNH**     | **NOTE**                                 |
 | :------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: | :---------------------: | :--------------------------------------- |
 | [Youtube Music Desktop](https://github.com/DerTyp7214/youtube-music) |                            https://github.com/DerTyp7214/youtube-music/releases/latest                             | Windows / MacOS / Linux | Cũng kiểu app trình duyệt thêm tính năng |
-|              [SpotX](https://github.com/amd64fox/SpotX)              |                                                                                                                    |         Windows         | Spotify mod                              |
+|      [SpotX - Windows](https://github.com/SpotX-Official/SpotX)      |                                                                                                                    |         Windows         | Spotify mod                              |
+| [SpotX - Mac / Linux](https://github.com/SpotX-Official/SpotX-Bash)  |                                                                                                                    |      MacOS / Linux      | Spotify mod                              |
+|         [SpotX - Mac](https://github.com/Nuzair46/SpotX-Mac)         |                                                                                                                    |          MacOS          | Spotify mod                              |
+|       [Block The Spot](https://github.com/mrpond/BlockTheSpot)       |                                                                                                                    |         Windows         | Spotify bỏ quảng cáo                     |
 |               [XManager](https://www.xmanagerapp.com)                | https://github.com/xManager-App/xManager/releases/latest/download/xManager.apk https://t.me/xManagerSupport/138498 |         Android         | Spotify mod, có cả Tidal                 |
 
 ## 5. Xem m3u
