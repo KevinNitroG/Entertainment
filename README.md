@@ -237,6 +237,7 @@ https://github.com/TCatCloud/IPTV/raw/Files/Adult.m3u - https://github.com/TCatC
 |      [Animity](https://github.com/kl3jvi/animity)       |                    https://github.com/kl3jvi/animity/releases/latest                     |       Android       | Chất lượng thấp quá                                                                                          |
 | [AnimeScrap](https://github.com/fakeyatogod/AnimeScrap) |                https://github.com/fakeyatogod/AnimeScrap/releases/latest/                |       Android       | Lấy từ nhiều source nước ngoài                                                                               |
 |  [Cinemax](https://github.com/BeamlakAschalew/cinemax)  |                https://github.com/BeamlakAschalew/cinemax/releases/latest                |       Android       | Có vẻ VN xem không ổn                                                                                        |
+|  [ApolloTv](https://github.com/ApolloTv-team/ApolloTv)  |                https://github.com/ApolloTv-team/ApolloTv/releases/latest                 |       Android       |                                                                                                              |
 
 ## 3. Đọc Truyện
 
