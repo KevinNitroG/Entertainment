@@ -42,3 +42,7 @@ function phaptx5() {
 function 90p-atv() {
     wget "http://hoaivnpt.duckdns.org/live-football/live-football.php" -U "$user_agent" -O ./playlists/90p-atv.m3u
 }
+
+function calemtv() {
+    wget "https://calemtv.000webhostapp.com/cltv.txt" -O ./playlists/calemtv.m3u
+}

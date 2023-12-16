@@ -19,7 +19,7 @@ rm -rf playlists
 mkdir playlists
 
 devider_length=30
-functions=("vthanhtivi" "phimmoi" "phimiptv" "coocaa" "phaptx5" "90p-atv")
+functions=("vthanhtivi" "phimmoi" "phimiptv" "coocaa" "phaptx5" "90p-atv" "calemtv")
 current_folder_size=0
 
 echo "UPDATE FOR: ${#functions[@]} playlist(s)"
