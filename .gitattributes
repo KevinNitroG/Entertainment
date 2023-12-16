@@ -1,1 +1,1 @@
-scripts/* eol=lf
+scripts/*.sh text eol=lf
