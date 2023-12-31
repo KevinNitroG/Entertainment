@@ -12,8 +12,8 @@
     -   [1. Cơ bản đủ dùng](#1-cơ-bản-đủ-dùng)
     -   [2. List khác](#2-list-khác)
     -   [3. Thuần thể thao](#3-thuần-thể-thao)
-    -   [4. List gộp](#4-list-gộp)
-    -   [5. Phim](#5-phim)
+    -   [4. List gộp Các list này được gộp từ 1 số list khác để tạo ra list dùng ok](#4-list-gộp-các-list-này-được-gộp-từ-1-số-list-khác-để-tạo-ra-list-dùng-ok)
+    -   [5. Phim Add vào là ngàn bộ phim luôn 😐](#5-phim-add-vào-là-ngàn-bộ-phim-luôn-)
     -   [6. Radio](#6-radio)
 -   [🕸️ WEBSITES](#️-websites)
     -   [1. Web xem phim](#1-web-xem-phim)
@@ -66,69 +66,702 @@
 
 ## 1. Cơ bản đủ dùng
 
-|                **LIST NAME**                 |                                                                                                       **ORIGINAL URL**                                                                                                        |                                                           **M3U URL**                                                            | **OWNER** |
-| :------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------: | :-------: |
-|      [vthanhtivi](http://vthanhtivi.pw)      |                                                       [![vthanhtivi](https://img.shields.io/badge/vthanhtivi-red?style=for-the-badge)](https://playlist.vthanhtivi.pw)                                                        | [![vthanhtivi m3u](https://img.shields.io/badge/vthanhtivi-m3u-red?style=for-the-badge)](../../raw/m3u/playlists/vthanhtivi.m3u) |   Thành   |
-|                    coocaa                    |                                                               [![coocaa](https://img.shields.io/badge/coocaa-orange?style=for-the-badge)](http://gg.gg/coocaa)                                                                |     [![coocaa m3u](https://img.shields.io/badge/coocaa-m3u-orange?style=for-the-badge)](../../raw/m3u/playlists/coocaa.m3u)      | Henry Vo  |
-|           bearlivetv / beartvplay            | [![bearlivetv](https://img.shields.io/badge/bearlivetv-yellow?style=for-the-badge)](http://gg.gg/bearlivetv)<br>[![beartvplay](https://img.shields.io/badge/beartvplay-yellow?style=for-the-badge)](http://bit.ly/beartvplay) |                                                                                                                                  |  Linh Vũ  |
-| [kiptv](https://github.com/ytpit20218/kiptv) |                                               [![kiptv](https://img.shields.io/badge/kiptv-purple?style=for-the-badge)](https://github.com/ytpit20218/kiptv/raw/main/kiptv.m3u)                                               |                                                                                                                                  | Minh kiệt |
+<table>
+    <thead>
+        <tr>
+            <th><b>LIST NAME</b></th>
+            <th><b>ORIGINAL URL</b></th>
+            <th><b>M3U URL</b></th>
+            <th><b>OWNER</b></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                <a href="http://vthanhtivi.pw"><b>vthanhtivi</b></a>
+            </td>
+            <td>
+                <a href="https://playlist.vthanhtivi.pw"
+                    ><img
+                        src="https://img.shields.io/badge/vthanhtivi-red?style=for-the-badge"
+                        alt="vthanhtivi"
+                /></a>
+            </td>
+            <td>
+                <a href="../../raw/m3u/playlists/vthanhtivi.m3u"
+                    ><img
+                        src="https://img.shields.io/badge/vthanhtivi-m3u-red?style=for-the-badge"
+                        alt="vthanhtivi m3u"
+                /></a>
+            </td>
+            <td>Thành</td>
+        </tr>
+        <tr>
+            <td><b>coocaa</b></td>
+            <td>
+                <a href="http://gg.gg/coocaa"
+                    ><img
+                        src="https://img.shields.io/badge/coocaa-orange?style=for-the-badge"
+                        alt="coocaa"
+                /></a>
+            </td>
+            <td>
+                <a href="../../raw/m3u/playlists/coocaa.m3u"
+                    ><img
+                        src="https://img.shields.io/badge/coocaa-m3u-orange?style=for-the-badge"
+                        alt="coocaa m3u"
+                /></a>
+            </td>
+            <td>Henry Vo</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="http://gg.gg/bearlivetv"><b>bearlivetv</b></a> /
+                <a href="http://bit.ly/beartvplay"><b>beartvplay</b></a>
+            </td>
+            <td>
+                <img
+                    src="https://img.shields.io/badge/bearlivetv-yellow?style=for-the-badge"
+                    alt="bearlivetv"
+                />
+                /
+                <img
+                    src="https://img.shields.io/badge/beartvplay-yellow?style=for-the-badge"
+                    alt="beartvplay"
+                />
+            </td>
+            <td></td>
+            <td>Linh Vũ</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/ytpit20218/kiptv"><b>kiptv</b></a>
+            </td>
+            <td>
+                <a href="https://github.com/ytpit20218/kiptv/raw/main/kiptv.m3u"
+                    ><img
+                        src="https://img.shields.io/badge/kiptv-purple?style=for-the-badge"
+                        alt="kiptv"
+                /></a>
+            </td>
+            <td></td>
+            <td>Minh kiệt</td>
+        </tr>
+    </tbody>
+</table>
 
 ## 2. List khác
 
-|                                     **LIST NAME**                                     |                                                                                                                                                                                                                                                            **ORIGINAL URL**                                                                                                                                                                                                                                                             |                                                                  **M3U URL**                                                                  | **NOTE**             |                                    **OWNER**                                     |
-| :-----------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: | :------------------- | :------------------------------------------------------------------------------: |
-|                       [iptvkhangg](https://github.com/Khanggne)                       |                                                                                                                                                                                                           [![IPTV Khangg](https://img.shields.io/badge/iptv%20khangg-red?style=for-the-badge)](https://tivi.khanggtivi.xyz/)                                                                                                                                                                                                            | <!-- [![IPTV Khangg m3u](https://img.shields.io/badge/iptv%20khangg-m3u-red?style=for-the-badge)](../../raw/m3u/playlists/iptvkhangg.m3u) --> |                      |                                      Khangg                                      |
-|                  [cvmedia](https://github.com/chivy141206/cvmedia/)                   |                                                                                                                                                                                                                    [![cvmedia](https://img.shields.io/badge/cvmedia-orange?style=for-the-badge)](http://cvmtv.site)                                                                                                                                                                                                                     |                                                                                                                                               | Chủ yếu thể thao     |                                      Chí Vỹ                                      |
-|                       [TV24](https://github.com/Televison/TV24)                       |                                                                                                                                                                                               [![TV24](https://img.shields.io/badge/TV24_Premium-yellow?style=for-the-badge)](https://github.com/Televison/TV24/raw/main/Project-v3.m3u)                                                                                                                                                                                                |                                                                                                                                               | có khá nhiều link K+ |                                                                                  |
-|                          [PhapTX5](https://t.me/phapferrari)                          |                                                                                                                                                                                                                   [![PhapTX5](https://img.shields.io/badge/phaptx5-green?style=for-the-badge)](https://gg.gg/phaptx5)                                                                                                                                                                                                                   |           [![PhapTX5 m3u](https://img.shields.io/badge/phaptx5-m3u-green?style=for-the-badge)](../../raw/m3u/playlists/phaptx5.m3u)           | có K+                |                                   Pháp Ferrari                                   |
-|                [ONETV](https://github.com/thanh51/repository.thanh51)                 |                                                                                                                                                                                               [![ONETV](https://img.shields.io/badge/ONETV-blue?style=for-the-badge)](https://github.com/thanh51/repository.thanh51/raw/master/ONETV.m3u)                                                                                                                                                                                               |                                                                                                                                               |                      |                                     Thanh51                                      |
-|             [Dak Lak IPTV](https://github.com/luongtamlong/Dak-Lak-IPTV)              |                                                                                                                                                                                   [![Dak Lak IPTV](https://img.shields.io/badge/Dak%20Lak%20IPTV-brown?style=for-the-badge)](https://github.com/luongtamlong/Dak-Lak-IPTV/raw/main/Dak%20Lak%20IPTV)                                                                                                                                                                                    |
-|               [HaNoi IPTV](https://github.com/HaNoiIPTV/HaNoiIPTV.m3u)                | [![HaNoi IPTV](https://img.shields.io/badge/HaNoi%20IPTV-white?style=for-the-badge)](https://github.com/HaNoiIPTV/HaNoiIPTV.m3u/raw/master/Danh%20s%C3%A1ch%20k%C3%AAnh/G%C3%B3i%20ch%C3%ADnh%20th%E1%BB%A9c/H%C3%A0%20N%E1%BB%99i%20IPTV.m3u)<br>[![HaNoi IPTV ++](https://img.shields.io/badge/HaNoi%20IPTV%20%2B%2B-white?style=for-the-badge)](https://github.com/HaNoiIPTV/HaNoiIPTV.m3u/raw/master/Danh%20s%C3%A1ch%20k%C3%AAnh/G%C3%B3i%20ch%C3%ADnh%20th%E1%BB%A9c/H%C3%A0%20N%E1%BB%99i%20IPTV%20c%C3%B4ng%20c%E1%BB%99ng.m3u) |
-|                 [Viet Nga IPTV](https://github.com/phuhdtv/vietngatv)                 |                                                                                                                                                                                  [![Viet Nga IPTV](https://img.shields.io/badge/viet%20nga%20iptv-gray?style=for-the-badge)](https://raw.githubusercontent.com/phuhdtv/vietngatv/master/vietngatv.m3u)                                                                                                                                                                                  |
-| [Cà Lem TV](https://www.facebook.com/groups/nghienmacviet/permalink/908757334233788/) |                                                                                                                                                                                                         [![CalemTV](https://img.shields.io/badge/calemtv-red?style=for-the-badge)](https://calemtv.000webhostapp.com/cltv.txt)                                                                                                                                                                                                          |            [![CalemTV m3u](https://img.shields.io/badge/calemtv-m3u-red?style=for-the-badge)](../../raw/m3u/playlists/calemtv.m3u)            |                      | [Trai Le](https://www.facebook.com/groups/794827048960151/user/100003382850998/) |
+<table>
+    <thead>
+        <tr>
+            <th><b>LIST NAME</b></th>
+            <th><b>ORIGINAL URL</b></th>
+            <th><b>M3U URL</b></th>
+            <th><b>NOTE</b></th>
+            <th><b>OWNER</b></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                <a href="https://github.com/Khanggne"><b>iptvkhangg</b></a>
+            </td>
+            <td>
+                <a href="https://khanggtivi.xyz/"
+                    ><img
+                        src="https://img.shields.io/badge/iptv%20khangg-red?style=for-the-badge"
+                        alt="IPTV Khangg"
+                /></a>
+            </td>
+            <td>
+                <!-- <a href="../../raw/m3u/playlists/iptvkhangg.m3u"><img src="https://img.shields.io/badge/iptv%20khangg-m3u-red?style=for-the-badge" alt="IPTV Khangg m3u"></a> -->
+            </td>
+            <td></td>
+            <td>Khangg</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/chivy141206/cvmedia/"
+                    ><b>cvmedia</b></a
+                >
+            </td>
+            <td>
+                <a href="http://cvmtv.site"
+                    ><img
+                        src="https://img.shields.io/badge/cvmedia-orange?style=for-the-badge"
+                        alt="cvmedia"
+                /></a>
+            </td>
+            <td></td>
+            <td>Chủ yếu thể thao</td>
+            <td>Chí Vỹ</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/Televison/TV24"><b>TV24</b></a>
+            </td>
+            <td>
+                <a
+                    href="https://github.com/Televison/TV24/raw/main/Project-v3.m3u"
+                    ><img
+                        src="https://img.shields.io/badge/TV24_Premium-yellow?style=for-the-badge"
+                        alt="TV24"
+                /></a>
+            </td>
+            <td></td>
+            <td>Ngỏm? :v</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://t.me/phapferrari"><b>PhapTX5</b></a>
+            </td>
+            <td>
+                <a href="https://gg.gg/phaptx5"
+                    ><img
+                        src="https://img.shields.io/badge/phaptx5-green?style=for-the-badge"
+                        alt="PhapTX5"
+                /></a>
+            </td>
+            <td>
+                <a href="../../raw/m3u/playlists/phaptx5.m3u"
+                    ><img
+                        src="https://img.shields.io/badge/phaptx5-m3u-green?style=for-the-badge"
+                        alt="PhapTX5 m3u"
+                /></a>
+            </td>
+            <td>có K+</td>
+            <td>Pháp Ferrari</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/thanh51/repository.thanh51"
+                    ><b>ONETV</b></a
+                >
+            </td>
+            <td>
+                <a
+                    href="https://github.com/thanh51/repository.thanh51/raw/master/ONETV.m3u"
+                    ><img
+                        src="https://img.shields.io/badge/ONETV-blue?style=for-the-badge"
+                        alt="ONETV"
+                /></a>
+            </td>
+            <td></td>
+            <td></td>
+            <td>Thanh51</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/luongtamlong/Dak-Lak-IPTV"
+                    ><b>Dak Lak IPTV</b></a
+                >
+            </td>
+            <td>
+                <a
+                    href="https://github.com/luongtamlong/Dak-Lak-IPTV/raw/main/Dak%20Lak%20IPTV"
+                    ><img
+                        src="https://img.shields.io/badge/Dak%20Lak%20IPTV-brown?style=for-the-badge"
+                        alt="Dak Lak IPTV"
+                /></a>
+            </td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/HaNoiIPTV/HaNoiIPTV.m3u"
+                    ><b>HaNoi IPTV</b></a
+                >
+            </td>
+            <td>
+                <a
+                    href="https://github.com/HaNoiIPTV/HaNoiIPTV.m3u/raw/master/Danh%20s%C3%A1ch%20k%C3%AAnh/G%C3%B3i%20ch%C3%ADnh%20th%E1%BB%A9c/H%C3%A0%20N%E1%BB%99i%20IPTV.m3u"
+                    ><img
+                        src="https://img.shields.io/badge/HaNoi%20IPTV-white?style=for-the-badge"
+                        alt="HaNoi IPTV" /></a
+                ><br />
+                <a
+                    href="https://github.com/HaNoiIPTV/HaNoiIPTV.m3u/raw/master/Danh%20s%C3%A1ch%20k%C3%AAnh/G%C3%B3i%20ch%C3%ADnh%20th%E1%BB%A9c/H%C3%A0%20N%E1%BB%99i%20IPTV%20c%C3%B4ng%20c%E1%BB%99ng.m3u"
+                    ><img
+                        src="https://img.shields.io/badge/HaNoi%20IPTV%20%2B%2B-white?style=for-the-badge"
+                        alt="HaNoi IPTV ++"
+                /></a>
+            </td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/phuhdtv/vietngatv"
+                    ><b>Viet Nga IPTV</b></a
+                >
+            </td>
+            <td>
+                <a
+                    href="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/vietngatv.m3u"
+                    ><img
+                        src="https://img.shields.io/badge/viet%20nga%20iptv-gray?style=for-the-badge"
+                        alt="Viet Nga IPTV"
+                /></a>
+            </td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>
+                <a
+                    href="https://www.facebook.com/groups/nghienmacviet/permalink/908757334233788/"
+                    ><b>Cà Lem TV</b></a
+                >
+            </td>
+            <td>
+                <a href="https://calemtv.000webhostapp.com/cltv.txt"
+                    ><img
+                        src="https://img.shields.io/badge/calemtv-red?style=for-the-badge"
+                        alt="CalemTV"
+                /></a>
+            </td>
+            <td>
+                <a href="../../raw/m3u/playlists/calemtv.m3u"
+                    ><img
+                        src="https://img.shields.io/badge/calemtv-m3u-red?style=for-the-badge"
+                        alt="CalemTV m3u"
+                /></a>
+            </td>
+            <td></td>
+            <td>
+                <a
+                    href="https://www.facebook.com/groups/794827048960151/user/100003382850998/"
+                    >Trai Le</a
+                >
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 ## 3. Thuần thể thao
 
-|                         **LIST NAME**                         |                                                                        **ORIGINAL URL**                                                                        |                                                                  **M3U URL**                                                                  |                  **OWNER**                  |
-| :-----------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------: |
-|    [4K UHD](https://github.com/kgasaz/4kuhd)<br>_(Sport)_     |         [![4K UHD](https://img.shields.io/badge/4K%20UHD-red?style=for-the-badge)](https://github.com/kgasaz/4kuhd/raw/master/sports-channels-4k.m3u)          |                                                                                                                                               |                   kgasaz                    |
-|                          SN-thapcam                           |                         [![SN-thapcam](https://img.shields.io/badge/SN%20thapcam-orange?style=for-the-badge)](http://gg.gg/SN-thapcam)                         | <!--[![SN-thapcam m3u](https://img.shields.io/badge/SN%20thapcam-m3u-orange?style=for-the-badge)](../../raw/m3u/playlists/sn-thapcam.m3u) --> |                  Sỹ Nguyên                  |
-|                           SN-90phut                           |                          [![SN-90phut](https://img.shields.io/badge/SN%2090phut-yellow?style=for-the-badge)](http://gg.gg/SN-90phut)                           | <!-- [![SN-90phut m3u](https://img.shields.io/badge/SN%2090phut-m3u-yellow?style=for-the-badge)](../../raw/m3u/playlists/sn-90phut.m3u)   --> |                  Sỹ Nguyên                  |
-|                           SN-cakhia                           |                          [![SN-cakhia](https://img.shields.io/badge/SN%20cakhia-purple?style=for-the-badge)](http://gg.gg/SN-cakhia)                           | <!-- [![SN-cakhia m3u](https://img.shields.io/badge/SN%20cakhia-m3u-purple?style=for-the-badge)](../../raw/m3u/playlists/sn-cakhia.m3u)   --> |                  Sỹ Nguyên                  |
-|                           SN-saoke                            |                            [![SN-saoke](https://img.shields.io/badge/SN%20saoke-green?style=for-the-badge)](http://gg.gg/SN-saoke)                             | <!--   [![SN-saoke m3u](https://img.shields.io/badge/SN%20saoke-m3u-green?style=for-the-badge)](../../raw/m3u/playlists/sn-saoke.m3u)     --> |                  Sỹ Nguyên                  |
-|                          SN-thethao                           |                          [![SN-thethao](https://img.shields.io/badge/SN%20thethao-blue?style=for-the-badge)](http://gg.gg/SN-thethao)                          | <!-- [![SN-thethao m3u](https://img.shields.io/badge/SN%20thethao-m3u-blue?style=for-the-badge)](../../raw/m3u/playlists/sn-thethao.m3u)  --> |                  Sỹ Nguyên                  |
-|                            aceball                            |                               [![aceball](https://img.shields.io/badge/aceball-brown?style=for-the-badge)](http://gg.gg/aceball)                               |
-|                          vn360sport                           |                        [![vn360sport](https://img.shields.io/badge/vn360_sport-white?style=for-the-badge)](https://hqth.me/vn360sport)                         |                                                                                                                                               |                   Lão Hạc                   |
-|                          kiptv sport                          |                          [![kiptv sport](https://img.shields.io/badge/kiptv_sport-gray?style=for-the-badge)](https://hqth.me/kiptvs)                           |                                                                                                                                               |                  Minh Kiệt                  |
-| [thanh51 IPTV](https://github.com/thanh51/repository.thanh51) | [![thanh 51 IPTV Sport](https://img.shields.io/badge/thanh51_IPTV-red?style=for-the-badge)](https://github.com/thanh51/repository.thanh51/raw/master/IPTV.m3u) |                                                                                                                                               |                   Thanh51                   |
-|                            90p-atv                            |                             [![90p-atv](https://img.shields.io/badge/90p_atv-orange?style=for-the-badge)](https://bit.ly/90p-atv)                              |          [![90p-atv m3u](https://img.shields.io/badge/90p_atv-m3u-orange?style=for-the-badge)](../../raw/m3u/playlists/90p-atv.m3u)           |                  Hoài VNPT                  |
-|           [AXT](https://github.com/MrToBun007/AXT)            |              [![AXT](https://img.shields.io/badge/AXT-yellow?style=for-the-badge)](https://raw.githubusercontent.com/MrToBun007/AXT/main/4K.m3u)               |                                                                                                                                               | [MrToBun007](https://github.com/MrToBun007) |
+<table>
+    <thead>
+        <tr>
+            <th><b>LIST NAME</b></th>
+            <th><b>ORIGINAL URL</b></th>
+            <th><b>M3U URL</b></th>
+            <th><b>OWNER</b></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                <a href="https://github.com/kgasaz/4kuhd"><b>4K UHD</b></a
+                ><br /><i>(Sport)</i>
+            </td>
+            <td>
+                <a
+                    href="https://github.com/kgasaz/4kuhd/raw/master/sports-channels-4k.m3u"
+                    ><img
+                        src="https://img.shields.io/badge/4K%20UHD-red?style=for-the-badge"
+                        alt="4K UHD"
+                /></a>
+            </td>
+            <td></td>
+            <td>kgasaz</td>
+        </tr>
+        <tr>
+            <td>SN-thapcam</td>
+            <td>
+                <a href="http://gg.gg/SN-thapcam"
+                    ><img
+                        src="https://img.shields.io/badge/SN%20thapcam-orange?style=for-the-badge"
+                        alt="SN-thapcam"
+                /></a>
+            </td>
+            <td>
+                <!-- [![SN-thapcam m3u](https://img.shields.io/badge/SN%20thapcam-m3u-orange?style=for-the-badge)](../../raw/m3u/playlists/sn-thapcam.m3u) -->
+            </td>
+            <td>Sỹ Nguyên</td>
+        </tr>
+        <tr>
+            <td>SN-90phut</td>
+            <td>
+                <a href="http://gg.gg/SN-90phut"
+                    ><img
+                        src="https://img.shields.io/badge/SN%2090phut-yellow?style=for-the-badge"
+                        alt="SN-90phut"
+                /></a>
+            </td>
+            <td>
+                <!-- [![SN-90phut m3u](https://img.shields.io/badge/SN%2090phut-m3u-yellow?style=for-the-badge)](../../raw/m3u/playlists/sn-90phut.m3u) -->
+            </td>
+            <td>Sỹ Nguyên</td>
+        </tr>
+        <tr>
+            <td>SN-cakhia</td>
+            <td>
+                <a href="http://gg.gg/SN-cakhia"
+                    ><img
+                        src="https://img.shields.io/badge/SN%20cakhia-purple?style=for-the-badge"
+                        alt="SN-cakhia"
+                /></a>
+            </td>
+            <td>
+                <!-- [![SN-cakhia m3u](https://img.shields.io/badge/SN%20cakhia-m3u-purple?style=for-the-badge)](../../raw/m3u/playlists/sn-cakhia.m3u) -->
+            </td>
+            <td>Sỹ Nguyên</td>
+        </tr>
+        <tr>
+            <td>SN-saoke</td>
+            <td>
+                <a href="http://gg.gg/SN-saoke"
+                    ><img
+                        src="https://img.shields.io/badge/SN%20saoke-green?style=for-the-badge"
+                        alt="SN-saoke"
+                /></a>
+            </td>
+            <td>
+                <!-- [![SN-saoke m3u](https://img.shields.io/badge/SN%20saoke-m3u-green?style=for-the-badge)](../../raw/m3u/playlists/sn-saoke.m3u) -->
+            </td>
+            <td>Sỹ Nguyên</td>
+        </tr>
+        <tr>
+            <td>SN-thethao</td>
+            <td>
+                <a href="http://gg.gg/SN-thethao"
+                    ><img
+                        src="https://img.shields.io/badge/SN%20thethao-blue?style=for-the-badge"
+                        alt="SN-thethao"
+                /></a>
+            </td>
+            <td>
+                <!-- [![SN-thethao m3u](https://img.shields.io/badge/SN%20thethao-m3u-blue?style=for-the-badge)](../../raw/m3u/playlists/sn-thethao.m3u) -->
+            </td>
+            <td>Sỹ Nguyên</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="http://gg.gg/aceball"><b>aceball</b></a>
+            </td>
+            <td>
+                <img
+                    src="https://img.shields.io/badge/aceball-brown?style=for-the-badge"
+                    alt="aceball"
+                />
+            </td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://hqth.me/vn360sport"><b>vn360sport</b></a>
+            </td>
+            <td>
+                <a href="https://hqth.me/vn360sport"
+                    ><img
+                        src="https://img.shields.io/badge/vn360_sport-white?style=for-the-badge"
+                        alt="vn360sport"
+                /></a>
+            </td>
+            <td></td>
+            <td>Lão Hạc</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://hqth.me/kiptvs"><b>kiptv sport</b></a>
+            </td>
+            <td>
+                <a href="https://hqth.me/kiptvs"
+                    ><img
+                        src="https://img.shields.io/badge/kiptv_sport-gray?style=for-the-badge"
+                        alt="kiptv sport"
+                /></a>
+            </td>
+            <td></td>
+            <td>Minh Kiệt</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/thanh51/repository.thanh51"
+                    ><b>thanh51 IPTV</b></a
+                >
+            </td>
+            <td>
+                <a
+                    href="https://github.com/thanh51/repository.thanh51/raw/master/IPTV.m3u"
+                    ><img
+                        src="https://img.shields.io/badge/thanh51_IPTV-red?style=for-the-badge"
+                        alt="thanh51 IPTV Sport"
+                /></a>
+            </td>
+            <td></td>
+            <td>Thanh51</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://bit.ly/90p-atv"><b>90p-atv</b></a>
+            </td>
+            <td>
+                <a href="https://bit.ly/90p-atv"
+                    ><img
+                        src="https://img.shields.io/badge/90p_atv-orange?style=for-the-badge"
+                        alt="90p-atv"
+                /></a>
+            </td>
+            <td>
+                <a href="../../raw/m3u/playlists/90p-atv.m3u"
+                    ><img
+                        src="https://img.shields.io/badge/90p_atv-m3u-orange?style=for-the-badge"
+                        alt="90p-atv m3u"
+                /></a>
+            </td>
+            <td>Hoài VNPT</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/MrToBun007/AXT"><b>AXT</b></a>
+            </td>
+            <td>
+                <a
+                    href="https://raw.githubusercontent.com/MrToBun007/AXT/main/4K.m3u"
+                    ><img
+                        src="https://img.shields.io/badge/AXT-yellow?style=for-the-badge"
+                        alt="AXT"
+                /></a>
+            </td>
+            <td></td>
+            <td>
+                <a href="https://github.com/MrToBun007">MrToBun007</a>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
-## 4. List gộp
+## 4. List gộp Các list này được gộp từ 1 số list khác để tạo ra list dùng ok
 
-Các list này được gộp từ 1 số list khác để tạo ra list dùng ok nhất
+nhất
 
-| **LIST NAME** |                                         **ORIGINAL URL**                                         |
-| :-----------: | :----------------------------------------------------------------------------------------------: |
-|    nhamng     | [![nhamng](https://img.shields.io/badge/nhamng-orange?style=for-the-badge)](http://gg.gg/nhamng) |
+<table>
+    <thead>
+        <tr>
+            <th><strong>LIST NAME</strong></th>
+            <th><strong>ORIGINAL URL</strong></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>nhamng</td>
+            <td>
+                <a href="http://gg.gg/nhamng"
+                    ><img
+                        src="https://img.shields.io/badge/nhamng-orange?style=for-the-badge"
+                        alt="nhamng"
+                /></a>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
-## 5. Phim
+## 5. Phim Add vào là ngàn bộ phim luôn 😐
 
-Add vào là ngàn bộ phim luôn 😐
-
-|                                                                        **LIST NAME**                                                                         |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      **ORIGINAL URL**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |                                                            **M3U URL**                                                            |   **OWNER**    |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: | :------------: |
-| [phimmoi](https://www.facebook.com/groups/kodiviet/permalink/1499377110586076)<br>[EPG](https://www.facebook.com/groups/kodiviet/permalink/1501024513754669) |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       [![phimmoi](https://img.shields.io/badge/phimmoi-red?style=for-the-badge)](https://hqth.me/Xjjeq)<br>[![phimmoi EPG](https://img.shields.io/badge/phimmoi%20EPG-red?style=for-the-badge)](https://hqth.me/Icy)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |      [![phimmoi m3u](https://img.shields.io/badge/phimmoi-m3u-red?style=for-the-badge)](../../raw/m3u/playlists/phimmoi.m3u)      | Ngọc Long Trác |
-|                                                 [Phim IPTV](http://iptv.pro.vn/phimiptv)<br>_(IPTV Pro VN)_                                                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         [![Phim IPTV](https://img.shields.io/badge/Phim%20IPTV-orange?style=for-the-badge)](https://gg.gg/phimiptv)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | [![Phim IPTV m3u](https://img.shields.io/badge/Phim%20IPTV-m3u-orange?style=for-the-badge)](../../raw/m3u/playlists/PhimIPTV.m3u) |  Lão Nông Dân  |
-|            [VNIPTV](http://vniptv.online)<br>[Zalo](https://zalo.me/g/higkqn442)<br>[Facebook](https://www.facebook.com/groups/1587063375149946/)            | [![phimmoi - phim lẻ 1](https://img.shields.io/badge/phimmoi-phim_lẻ_1-yellow?style=for-the-badge)](https://hqth.me/phimle)<br>[![phimmoi - phim lẻ 2](https://img.shields.io/badge/phimmoi-phim_lẻ_2-yellow?style=for-the-badge)](https://hqth.me/phimle2)<br>[![phimmoi - phim lẻ epg](https://img.shields.io/badge/phimmoi-phim_lẻ_epg-yellow?style=for-the-badge)](https://hqth.me/phimleepg)<br><br>[![phimmoi - phim bộ 1](https://img.shields.io/badge/phimmoi-phim_bộ_1-purple?style=for-the-badge)](https://hqth.me/phimbo)<br>[![phimmoi - phim bộ 2](https://img.shields.io/badge/phimmoi-phim_bộ_2-purple?style=for-the-badge)](https://hqth.me/phimbo2)<br>[![phimmoi - phim bộ 1](https://img.shields.io/badge/phimmoi-phim_bộ_epg-purple?style=for-the-badge)](https://hqth.me/phimboepg)<br><br>[![tvhay - phim lẻ](https://img.shields.io/badge/tvhay-phim_lẻ-green?style=for-the-badge)](https://hqth.me/tvhayphimle)<br>[![tvhay - phim lẻ epg](https://img.shields.io/badge/tvhay-phim_lẻ_epg-green?style=for-the-badge)](https://hqth.me/tvhayphimleepg)<br><br>[![FPTPlay - phim lẻ](https://img.shields.io/badge/fptplay-phim_lẻ-blue?style=for-the-badge)](https://hqth.me/fptphimle)<br>[![FPTPlay - phim lẻ epg](https://img.shields.io/badge/fptplay-phim_lẻ_epg-blue?style=for-the-badge)](https://hqth.me/fptphimleepg)<br><br>[![Fshare phim lẻ](https://img.shields.io/badge/fshare-phim_lẻ-brown?style=for-the-badge)](https://hqth.me/fsphimle)<br><br>[![Fshare phim bộ](https://img.shields.io/badge/fshare-phim_bộ-white?style=for-the-badge)](https://hqth.me/fsharephimbo)<br><br>[![JS phim lẻ](https://img.shields.io/badge/js-phim_lẻ-gray?style=for-the-badge)](https://hqth.me/jsphimle)<br><br>[![JS Fshare PL](https://img.shields.io/badge/js-fshare_pl-red?style=for-the-badge)](https://hqth.me/jsfsharepl) |                                                                                                                                   | Hoang Huu Diep |
-|                                                    [Phim IPTV OTT Navigator](https://github.com/forcef5/)                                                    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   [![Phim OTT Navigator](https://img.shields.io/badge/phim_ott_navigator-orange?style=for-the-badge)](https://github.com/forcef5/iptv/raw/master/2023-10-07_00-26-5199_convert_ott.json)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |                                                                                                                                   |    forcef5     |
-|                                                  [AllMovies](https://github.com/Televison/Films24-Premium)                                                   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   [![AllMovies](https://img.shields.io/badge/AllMovies-yellow?style=for-the-badge)](https://github.com/Televison/Films24-Premium/raw/main/Allmovies.m3u)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |                                                                                                                                   |                |
+<table>
+    <thead>
+        <tr>
+            <th><b>LIST NAME</b></th>
+            <th><b>ORIGINAL URL</b></th>
+            <th><b>M3U URL</b></th>
+            <th><b>OWNER</b></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                <a href="https://hqth.me/Xjjeq"><b>phimmoi</b></a
+                ><br /><a
+                    href="https://www.facebook.com/groups/kodiviet/permalink/1499377110586076"
+                    >EPG</a
+                >
+            </td>
+            <td>
+                <a href="https://hqth.me/Xjjeq"
+                    ><img
+                        src="https://img.shields.io/badge/phimmoi-red?style=for-the-badge"
+                        alt="phimmoi" /></a
+                ><br /><a href="https://hqth.me/Icy"
+                    ><img
+                        src="https://img.shields.io/badge/phimmoi%20EPG-red?style=for-the-badge"
+                        alt="phimmoi EPG"
+                /></a>
+            </td>
+            <td>
+                <a href="../../raw/m3u/playlists/phimmoi.m3u"
+                    ><img
+                        src="https://img.shields.io/badge/phimmoi-m3u-red?style=for-the-badge"
+                        alt="phimmoi m3u"
+                /></a>
+            </td>
+            <td>Ngọc Long Trác</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://gg.gg/phimiptv"><b>Phim IPTV</b></a
+                ><br /><i>(IPTV Pro VN)</i>
+            </td>
+            <td>
+                <a href="https://gg.gg/phimiptv"
+                    ><img
+                        src="https://img.shields.io/badge/Phim%20IPTV-orange?style=for-the-badge"
+                        alt="Phim IPTV"
+                /></a>
+            </td>
+            <td>
+                <a href="../../raw/m3u/playlists/PhimIPTV.m3u"
+                    ><img
+                        src="https://img.shields.io/badge/Phim%20IPTV-m3u-orange?style=for-the-badge"
+                        alt="Phim IPTV m3u"
+                /></a>
+            </td>
+            <td>Lão Nông Dân</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://zalo.me/g/higkqn442">VNIPTV</a><br /><a
+                    href="https://www.facebook.com/groups/1587063375149946/"
+                    >Zalo</a
+                ><br /><a
+                    href="https://www.facebook.com/groups/1587063375149946/"
+                    >Facebook</a
+                >
+            </td>
+            <td>
+                <a href="https://hqth.me/phimle"
+                    ><img
+                        src="https://img.shields.io/badge/phimmoi-phim_lẻ_1-yellow?style=for-the-badge"
+                        alt="phimmoi - phim lẻ 1" /></a
+                ><br /><a href="https://hqth.me/phimle2"
+                    ><img
+                        src="https://img.shields.io/badge/phimmoi-phim_lẻ_2-yellow?style=for-the-badge"
+                        alt="phimmoi - phim lẻ 2" /></a
+                ><br /><a href="https://hqth.me/phimleepg"
+                    ><img
+                        src="https://img.shields.io/badge/phimmoi-phim_lẻ_epg-yellow?style=for-the-badge"
+                        alt="phimmoi - phim lẻ epg" /></a
+                ><br /><br /><a href="https://hqth.me/phimbo"
+                    ><img
+                        src="https://img.shields.io/badge/phimmoi-phim_bộ_1-purple?style=for-the-badge"
+                        alt="phimmoi - phim bộ 1" /></a
+                ><br /><a href="https://hqth.me/phimbo2"
+                    ><img
+                        src="https://img.shields.io/badge/phimmoi-phim_bộ_2-purple?style=for-the-badge"
+                        alt="phimmoi - phim bộ 2" /></a
+                ><br /><a href="https://hqth.me/phimboepg"
+                    ><img
+                        src="https://img.shields.io/badge/phimmoi-phim_bộ_epg-purple?style=for-the-badge"
+                        alt="phimmoi - phim bộ epg" /></a
+                ><br /><br /><a href="https://hqth.me/tvhayphimle"
+                    ><img
+                        src="https://img.shields.io/badge/tvhay-phim_lẻ-green?style=for-the-badge"
+                        alt="tvhay - phim lẻ" /></a
+                ><br /><a href="https://hqth.me/tvhayphimleepg"
+                    ><img
+                        src="https://img.shields.io/badge/tvhay-phim_lẻ_epg-green?style=for-the-badge"
+                        alt="tvhay - phim lẻ epg" /></a
+                ><br /><br /><a href="https://hqth.me/fptphimle"
+                    ><img
+                        src="https://img.shields.io/badge/fptplay-phim_lẻ-blue?style=for-the-badge"
+                        alt="FPTPlay - phim lẻ" /></a
+                ><br /><a href="https://hqth.me/fptphimleepg"
+                    ><img
+                        src="https://img.shields.io/badge/fptplay-phim_lẻ_epg-blue?style=for-the-badge"
+                        alt="FPTPlay - phim lẻ epg" /></a
+                ><br /><br /><a href="https://hqth.me/fsphimle"
+                    ><img
+                        src="https://img.shields.io/badge/fshare-phim_lẻ-brown?style=for-the-badge"
+                        alt="Fshare phim lẻ" /></a
+                ><br /><br /><a href="https://hqth.me/fsharephimbo"
+                    ><img
+                        src="https://img.shields.io/badge/fshare-phim_bộ-white?style=for-the-badge"
+                        alt="Fshare phim bộ" /></a
+                ><br /><br /><a href="https://hqth.me/jsphimle"
+                    ><img
+                        src="https://img.shields.io/badge/js-phim_lẻ-gray?style=for-the-badge"
+                        alt="JS phim lẻ" /></a
+                ><br /><br /><a href="https://hqth.me/jsfsharepl"
+                    ><img
+                        src="https://img.shields.io/badge/js-fshare_pl-red?style=for-the-badge"
+                        alt="JS Fshare PL"
+                /></a>
+            </td>
+            <td></td>
+            <td>Hoang Huu Diep</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/forcef5/"
+                    >Phim IPTV OTT Navigator</a
+                >
+            </td>
+            <td>
+                <a
+                    href="https://github.com/forcef5/iptv/raw/master/2023-10-07_00-26-5199_convert_ott.json"
+                    ><img
+                        src="https://img.shields.io/badge/phim_ott_navigator-orange?style=for-the-badge"
+                        alt="Phim OTT Navigator"
+                /></a>
+            </td>
+            <td></td>
+            <td>forcef5</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/Televison/Films24-Premium"
+                    >AllMovies</a
+                >
+            </td>
+            <td>
+                <a
+                    href="https://github.com/Televison/Films24-Premium/raw/main/Allmovies.m3u"
+                    ><img
+                        src="https://img.shields.io/badge/AllMovies-yellow?style=for-the-badge"
+                        alt="AllMovies"
+                /></a>
+            </td>
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
 
 ## 6. Radio
 
-|                         **LIST NAME**                         |                                                                      **ORIGINAL URL**                                                                       |
-| :-----------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| [Dak Lak Radio](https://github.com/luongtamlong/Dak-Lak-IPTV) | [![Dak Lak Radio](https://img.shields.io/badge/Dak%20Lak%20Radio-red?style=for-the-badge)](https://github.com/luongtamlong/Dak-Lak-IPTV/raw/main/Radio.m3u) |
+<table>
+    <thead>
+        <tr>
+            <th><strong>LIST NAME</strong></th>
+            <th><strong>ORIGINAL URL</strong></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                <a href="https://github.com/luongtamlong/Dak-Lak-IPTV"
+                    >Dak Lak Radio</a
+                >
+            </td>
+            <td>
+                <a
+                    href="https://github.com/luongtamlong/Dak-Lak-IPTV/raw/main/Radio.m3u"
+                    ><img
+                        src="https://img.shields.io/badge/Dak%20Lak%20Radio-red?style=for-the-badge"
+                        alt="Dak Lak Radio"
+                /></a>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 <!-- Ex Ex Ex :v
 https://hqth.me/javhdpro - http://vniptv.online
