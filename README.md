@@ -12,7 +12,7 @@
     -   [1. Cơ bản đủ dùng](#1-cơ-bản-đủ-dùng)
     -   [2. List khác](#2-list-khác)
     -   [3. Thuần thể thao](#3-thuần-thể-thao)
-    -   [4. List gộp Các list này được gộp từ 1 số list khác để tạo ra list dùng ok](#4-list-gộp-các-list-này-được-gộp-từ-1-số-list-khác-để-tạo-ra-list-dùng-ok)
+    -   [4. List gộp](#4-list-gộp)
     -   [5. Phim Add vào là ngàn bộ phim luôn 😐](#5-phim-add-vào-là-ngàn-bộ-phim-luôn-)
     -   [6. Radio](#6-radio)
 -   [🕸️ WEBSITES](#️-websites)
@@ -444,10 +444,10 @@
         </tr>
         <tr>
             <td>
-                <a href="http://gg.gg/aceball"><b>aceball</b></a>
+                <a><b>aceball</b></a>
             </td>
             <td>
-                <img
+                <img href="http://gg.gg/aceball"
                     src="https://img.shields.io/badge/aceball-brown?style=for-the-badge"
                     alt="aceball"
                 />
@@ -457,7 +457,7 @@
         </tr>
         <tr>
             <td>
-                <a href="https://hqth.me/vn360sport"><b>vn360sport</b></a>
+                <a><b>vn360sport</b></a>
             </td>
             <td>
                 <a href="https://hqth.me/vn360sport"
@@ -471,7 +471,7 @@
         </tr>
         <tr>
             <td>
-                <a href="https://hqth.me/kiptvs"><b>kiptv sport</b></a>
+                <a><b>kiptv sport</b></a>
             </td>
             <td>
                 <a href="https://hqth.me/kiptvs"
@@ -540,9 +540,9 @@
     </tbody>
 </table>
 
-## 4. List gộp Các list này được gộp từ 1 số list khác để tạo ra list dùng ok
+## 4. List gộp
 
-nhất
+Các list này được gộp từ 1 số list khác để tạo ra list dùng ok
 
 <table>
     <thead>
