@@ -341,6 +341,29 @@
                 >
             </td>
         </tr>
+        <tr>
+            <td>
+                <a
+                    href="https://congmt.pro.vn/"
+                    ><b>CongMT - Libra</b></a
+                >
+            </td>
+            <td>
+                <a href="congmt.pro.vn/iptv/libra.m3u"
+                    ><img
+                        src="https://img.shields.io/badge/libra-orange?style=for-the-badge"
+                        alt="Libra"
+                /></a>
+            </td>
+            <td></td>
+            <td></td>
+            <td>
+                <a
+                    href="https://discord.com/invite/2CyJjMgugY"
+                    >CongMT Discord</a
+                >
+            </td>
+        </tr>
     </tbody>
 </table>
 

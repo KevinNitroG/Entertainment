@@ -36,7 +36,7 @@ function coocaa() {
 }
 
 function phaptx5() {
-    wget "http://phaptx5.x10.mx:80/phapferrariVIP2.php" -U "OTT Navigator/1.6.9.2 (Linux; Android 10; en; 172kbeq)" -O ./playlists/phaptx5.m3u
+    wget "http://phaptx5.x10.mx/phapferrariVIP2.php" -U "OTT Navigator/1.6.9.4 (Linux;Android 12; en; 10i5hoq)" -O ./playlists/phaptx5.m3u
 }
 
 function 90p-atv() {
