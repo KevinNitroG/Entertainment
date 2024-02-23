@@ -19,7 +19,7 @@ concurrency:
 
 jobs:
   update_playlists:
-    if: ${{ github.GITHUB_ACTOR == 'KevinNitroG' }}
+    if: ${{ github.repository_owner == 'KevinNitroG' }}
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
